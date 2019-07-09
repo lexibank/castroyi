@@ -1,4 +1,4 @@
-# Sui Dialect Research
+# Yi Varieties in Heqing
 
 Cite the source dataset as
 
