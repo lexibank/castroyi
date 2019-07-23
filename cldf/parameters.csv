@@ -22,9 +22,9 @@ Castro-2010-540-20,iron,621,IRON,铁
 Castro-2010-540-21,stone*,857,STONE,石头
 Castro-2010-540-22,fire*,221,FIRE,火
 Castro-2010-540-23,flame,889,FLAME,火焰
-Castro-2010-540-24,smoke*,1689,SMOKE (INHALE),烟(炊烟)
+Castro-2010-540-24,smoke*,778,SMOKE (EXHAUST),烟(炊烟)
 Castro-2010-540-25,night*,1233,NIGHT,夜
-Castro-2010-540-26,day,1225,DAY (NOT NIGHT),日(子)，天
+Castro-2010-540-26,day,1260,DAY (24 HOURS),日(子)，天
 Castro-2010-540-27,today,1283,TODAY,今天
 Castro-2010-540-28,yesterday,1174,YESTERDAY,昨天
 Castro-2010-540-29,day before yesterday,1180,DAY BEFORE YESTERDAY,前天
@@ -102,7 +102,7 @@ Castro-2010-540-100,seed*,714,SEED,种子
 Castro-2010-540-101,root*,670,ROOT,根(树根)
 Castro-2010-540-102,leaf*,628,LEAF,叶子
 Castro-2010-540-103,branch,1531,BRANCH,树枝
-Castro-2010-540-104,shoot,1172,SHOOT,芽(种子芽)
+Castro-2010-540-104,shoot,1684,BUD,芽(种子芽)
 Castro-2010-540-105,flower,239,FLOWER,花
 Castro-2010-540-106,board,1227,BOARD,板子(木板)
 Castro-2010-540-107,stick,1295,STICK,棍子
@@ -156,7 +156,7 @@ Castro-2010-540-154,liver*,1224,LIVER,肝
 Castro-2010-540-155,lungs,688,LUNG,肺
 Castro-2010-540-156,sweat,125,SWEAT (SUBSTANCE),汗
 Castro-2010-540-157,blood*,946,BLOOD,血
-Castro-2010-540-158,catarrh,201,NASAL MUCUS (SNOT),鼻涕
+Castro-2010-540-158,catarrh,208,NASAL MUCUS (SNOT),鼻涕
 Castro-2010-540-159,saliva,1503,SALIVA,口水
 Castro-2010-540-160,milk,635,MILK,奶
 Castro-2010-540-161,faeces,675,FAECES (EXCREMENT),屎
@@ -184,7 +184,7 @@ Castro-2010-540-182,husband,1200,HUSBAND,丈夫
 Castro-2010-540-183,wife,1199,WIFE,妻子
 Castro-2010-540-184,son,1620,SON,儿子
 Castro-2010-540-185,daughter,1357,DAUGHTER,女儿(姑娘)
-Castro-2010-540-186,Daughter-in-law,1057,DAUGHTER-IN-LAW,儿媳(媳妇)
+Castro-2010-540-186,daughter-in-law,1057,DAUGHTER-IN-LAW,儿媳(媳妇)
 Castro-2010-540-187,son-in-law,1056,SON-IN-LAW,女婿
 Castro-2010-540-188,grandson,1618,GRANDSON,孙子
 Castro-2010-540-189,house,1252,HOUSE,房子
@@ -192,7 +192,7 @@ Castro-2010-540-190,wall,933,WALL (OF HOUSE),墙壁
 Castro-2010-540-191,beam,1132,BEAM,梁(椽子)
 Castro-2010-540-192,door,1567,DOOR,门
 Castro-2010-540-193,room,1450,ROOM,房间
-Castro-2010-540-194,paddy field,2026,RICE PLANT,田(稻田)
+Castro-2010-540-194,paddy field,140,PADDY FIELD,田(稻田)
 Castro-2010-540-195,dry field,2794,FIELD (UPLAND),田(旱田)
 Castro-2010-540-196,hat,771,HAT,帽子
 Castro-2010-540-197,earring,770,EARRING,耳环
@@ -235,7 +235,7 @@ Castro-2010-540-233,price,657,PRICE,价钱(价格)
 Castro-2010-540-234,name*,1405,NAME,名字
 Castro-2010-540-235,dream,2374,DREAM,梦
 Castro-2010-540-236,shadow,1388,SHADE,影子
-Castro-2010-540-237,ghost,53,SPIRIT,鬼
+Castro-2010-540-237,ghost,1175,GHOST,鬼
 Castro-2010-540-238,god,3231,DEITY,神
 Castro-2010-540-239,soul,811,SOUL,灵魂
 Castro-2010-540-240,fence,1690,FENCE,栅栏
@@ -258,11 +258,11 @@ Castro-2010-540-256,to swallow,897,SWALLOW,咽(吞)
 Castro-2010-540-257,to spit,1440,SPIT,吐(吐口水)
 Castro-2010-540-258,to vomit,1278,VOMIT,呕吐
 Castro-2010-540-259,to blow,176,BLOW (WITH MOUTH),吹(吹火)
-Castro-2010-540-260,to say*,1458,SAY,说
+Castro-2010-540-260,to say*,1623,SPEAK,说
 Castro-2010-540-261,to ask,1309,ASK (INQUIRE),问
 Castro-2010-540-262,to call,1084,CALL,叫
 Castro-2010-540-263,to tell,1711,TELL,告诉
-Castro-2010-540-264,to smell,2124,SMELL,闻(嗅)
+Castro-2010-540-264,to smell,1586,SMELL (PERCEIVE),闻(嗅)
 Castro-2010-540-265,to take,1749,TAKE,拿(拿书)
 Castro-2010-540-266,to pick,2148,PICK,摘(摘果子)
 Castro-2010-540-267,to tear,1735,TEAR (SHRED),撕
@@ -294,9 +294,9 @@ Castro-2010-540-292,to shoot,1172,SHOOT,射
 Castro-2010-540-293,to hit (a target),3307,HIT (A TARGET),中(射中)
 Castro-2010-540-294,to kill*,1417,KILL,杀(杀鸡)
 Castro-2010-540-295,to die*,1494,DIE,死
-Castro-2010-540-296,to mill,636,MILL,磨(磨米)
+Castro-2010-540-296,to mill,1033,GRIND,磨(磨米)
 Castro-2010-540-297,to winnow,2462,WINNOWING,簸(簸米)
-Castro-2010-540-298,to wear (a hat),976,WEAR,戴(戴帽子)
+Castro-2010-540-298,to wear (a hat),3428,WEAR (ON HEAD),戴(戴帽子)
 Castro-2010-540-299,to wear (clothes),976,WEAR,穿(上衣)
 Castro-2010-540-300,to comb,2070,COMB (VERB),梳(梳头)
 Castro-2010-540-301,to sew,1457,SEW,缝(缝纫)
@@ -311,20 +311,20 @@ Castro-2010-540-309,to put down,998,PUT,放(下)[放置]
 Castro-2010-540-310,to hang,2884,HANG,挂(挂在墙上)
 Castro-2010-540-311,to untie,352,UNTIE,解(解绳结)
 Castro-2010-540-312,to release,1095,LET GO OR SET FREE,放(把鸟放走)
-Castro-2010-540-313,to pack,1679,LOAD,装(装进袋里)
+Castro-2010-540-313,to pack,,,装(装进袋里)
 Castro-2010-540-314,to take out,,,拿出
-Castro-2010-540-315,to stuff,1913,PRESS,塞(塞在洞口)
+Castro-2010-540-315,to stuff,,,塞(塞在洞口)
 Castro-2010-540-316,to hide (thing),602,HIDE (CONCEAL),藏(东西)
 Castro-2010-540-317,to hide (self),2485,HIDE (ONESELF),藏/躲(自己)
 Castro-2010-540-318,to choose,1750,CHOOSE,挑选
-Castro-2010-540-319,to heap,2984,HEAP,堆(堆积泥土)
+Castro-2010-540-319,to heap,1576,PILE UP,堆(堆积泥土)
 Castro-2010-540-320,to get,694,GET,得(得到)
-Castro-2010-540-321,to receive,694,GET,收(收起来)
+Castro-2010-540-321,to receive,7,GATHER,收(收起来)
 Castro-2010-540-322,to seek,1468,LOOK FOR,找(寻找)
 Castro-2010-540-323,to use,2072,USE (VERB),用(使用)
 Castro-2010-540-324,to play,1413,PLAY,玩耍
 Castro-2010-540-325,to dance,1879,DANCE,跳舞
-Castro-2010-540-326,to celebrate New Year,,,过年
+Castro-2010-540-326,to celebrate New Year,3430,CELEBRATE NEW YEAR,过年
 Castro-2010-540-327,to help,1897,HELP,帮助
 Castro-2010-540-328,to allocate,,,分配(分配)
 Castro-2010-540-329,to wait,1590,WAIT (FOR),等(候)
@@ -350,7 +350,7 @@ Castro-2010-540-348,to know how to,972,BE ABLE,会(会做)
 Castro-2010-540-349,to be,1579,BE,是(这是什么)
 Castro-2010-540-350,to have,773,HAVE,有
 Castro-2010-540-351,to swim*,1439,SWIM,游(泳)
-Castro-2010-540-352,to save,1997,PRESERVE,救(救人)
+Castro-2010-540-352,to save,2008,RESCUE,救(救人)
 Castro-2010-540-353,to walk*,1443,WALK,走(动作： 正在走)
 Castro-2010-540-354,to run,1519,RUN,跑
 Castro-2010-540-355,to come*,1446,COME,来
@@ -368,7 +368,7 @@ Castro-2010-540-366,to chase,1047,PURSUE,追(追上)
 Castro-2010-540-367,to jump,1829,JUMP,跳
 Castro-2010-540-368,to ride,367,RIDE,骑(骑马)
 Castro-2010-540-369,to recline*,1411,LIE (REST),躺
-Castro-2010-540-370,to exist,1579,BE,在
+Castro-2010-540-370,to exist,1460,IN,在
 Castro-2010-540-371,to crack,3080,SPLIT OPEN,裂开(墙裂开)
 Castro-2010-540-372,to roll,827,ROLL,滚(石头滚)
 Castro-2010-540-373,to fall down,1280,FALL,掉(掉在地下)
@@ -475,7 +475,7 @@ Castro-2010-540-473,correct,1725,CORRECT (RIGHT),正确
 Castro-2010-540-474,enough,1881,ENOUGH,足够
 Castro-2010-540-475,near,1942,NEAR,近
 Castro-2010-540-476,high,2790,HIGH OR TALL,高
-Castro-2010-540-477,low,3348,LOW (POSITION OR HEIGHT),低
+Castro-2010-540-477,low,721,LOW,低
 Castro-2010-540-478,long*,1203,LONG,长
 Castro-2010-540-479,short,1645,SHORT,短
 Castro-2010-540-480,many*,1198,MANY,多
@@ -488,9 +488,9 @@ Castro-2010-540-486,deep,1593,DEEP,深(水深)
 Castro-2010-540-487,light,1052,LIGHT (WEIGHT),轻
 Castro-2010-540-488,heavy,1210,HEAVY,重
 Castro-2010-540-489,thick (2D),1244,THICK,厚
-Castro-2010-540-490,thin (2D),2308,THIN,薄
-Castro-2010-540-491,thick (3D),1244,THICK,粗(粗大)
-Castro-2010-540-492,thin (3D),2308,THIN,细(细小)
+Castro-2010-540-490,thin (2D),2306,THIN (OF LEAF AND CLOTH),薄
+Castro-2010-540-491,thick (3D),2151,COARSE,粗(粗大)
+Castro-2010-540-492,thin (3D),2305,THIN (OF HAIR AND THREAD),细(细小)
 Castro-2010-540-493,one*,1493,ONE,一
 Castro-2010-540-494,two*,1498,TWO,二
 Castro-2010-540-495,three,492,THREE,三
@@ -519,8 +519,8 @@ Castro-2010-540-517,this*,1214,THIS,这(个)
 Castro-2010-540-518,that*,78,THAT,那(个)
 Castro-2010-540-519,here,136,HERE,这里
 Castro-2010-540-520,there,1937,THERE,那里
-Castro-2010-540-521,over here,1214,THIS,这边
-Castro-2010-540-522,over there,78,THAT,那边
+Castro-2010-540-521,over here,3410,OVER HERE,这边
+Castro-2010-540-522,over there,3411,OVER THERE,那边
 Castro-2010-540-523,between,689,BETWEEN,中间
 Castro-2010-540-524,left,244,LEFT,左边
 Castro-2010-540-525,right,1019,RIGHT,右边
@@ -538,4 +538,4 @@ Castro-2010-540-536,who?*,1235,WHO,谁?
 Castro-2010-540-537,now,1376,NOW,现在
 Castro-2010-540-538,before (temporal),1882,BEFORE,以前(过去)
 Castro-2010-540-539,after (temporal),1685,AFTER,今后(将来)
-Castro-2010-540-540,most,1198,MANY,最(最大)
+Castro-2010-540-540,most,,,最(最大)

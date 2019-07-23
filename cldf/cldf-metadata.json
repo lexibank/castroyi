@@ -4,6 +4,9 @@
     "dc:bibliographicCitation": "Castro, Andy; Crook, Brian; Flaming, Royce (2010): A sociolinguistic survey of Kua-nsi and related Yi varieties in Heqing county, Yunnan province, China. SIL Electronic Survey Reports 2010-001. Dallas: SIL International.",
     "dc:conformsTo": "http://cldf.clld.org/v1.0/terms.rdf#Wordlist",
     "dc:description": null,
+    "dc:format": [
+        "http://concepticon.clld.org/contributions/Castro-2010-540"
+    ],
     "dc:identifier": "http://www.sil.org/silesr/2010/silesr2010-001_English.pdf",
     "dc:isVersionOf": null,
     "dc:license": "https://creativecommons.org/licenses/by-nc/4.0/",
@@ -20,8 +23,8 @@
         {
             "dc:title": "environment",
             "properties": {
-                "glottolog_version": "v3.4-1-g07a9b54",
-                "concepticon_version": "pyconcepticon-1.4.0-207-gdf49abe"
+                "glottolog_version": "v4.0-12-ge90a2e3",
+                "concepticon_version": "v2.0-28-g30d405a"
             }
         }
     ],

@@ -41,15 +41,15 @@ class Dataset(BaseDataset):
 
         with self.cldf as ds:
 
-            for concept in self.concepts:
+            for concept in self.conceptlist.concepts.values():
                 ds.add_concept(
-                        ID=concept['ID'],
-                        Name=concept['ENGLISH'],
-                        Chinese_Gloss=concept['CHINESE'],
-                        Concepticon_ID=concept['CONCEPTICON_ID'],
-                        Concepticon_Gloss=concept['CONCEPTICON_GLOSS']
+                        ID=concept.id,
+                        Name=concept.english,
+                        Chinese_Gloss=concept.attributes['chinese'],
+                        Concepticon_ID=concept.concepticon_id,
+                        Concepticon_Gloss=concept.concepticon_gloss
                         )
-                concepts[concept['ENGLISH']] = concept['ID']
+                concepts[concept.english] = concept.id
             for language in self.languages:
                 ds.add_language(
                         ID=language['ID'],
