@@ -37,7 +37,7 @@ class Dataset(BaseDataset):
 
     def cmd_install(self, **kw):
 
-        wl = Wordlist(self.dir.joinpath('raw', 'wordlist.tsv').as_posix())
+        wl = Wordlist(self.dir.joinpath('raw', 'yi-wl.tsv').as_posix())
         langs = {} # need for checking later
         concepts = {}
 
@@ -52,6 +52,7 @@ class Dataset(BaseDataset):
                         Concepticon_Gloss=concept.concepticon_gloss
                         )
                 concepts[concept.english] = concept.id
+            concepts['Daughter-in-law'] = concepts['daughter-in-law']
             langs = {k['Name']: k['ID'] for k in self.languages}
             ds.add_languages()
             ds.add_sources(*self.raw.read_bib())
