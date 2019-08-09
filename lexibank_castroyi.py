@@ -29,9 +29,6 @@ class Dataset(BaseDataset):
     concept_class = HConcept
     language_class = HLanguage
     
-    def clean_form(self, item, form):
-        return form.strip().replace(' ', '_')
-
     def cmd_download(self, **kw):
         pass
 
@@ -58,10 +55,11 @@ class Dataset(BaseDataset):
             ds.add_sources(*self.raw.read_bib())
             
             for idx in tqdm(wl, desc='cldfify'):
-                 ds.add_lexemes(
+                 ds.add_segments(
                     Language_ID=langs[wl[idx, 'doculect']],
                     Parameter_ID=concepts[wl[idx, 'concept']],
                     Value=wl[idx, 'value'],
+                    Form= wl[idx, 'form'],
                     Segments=wl[idx, 'tokens'],
                     Source=['Castro2010']
                     )
