@@ -1,541 +1,541 @@
 ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
-Castro-2010-540-1,sky,1732,SKY,天(天空)
-Castro-2010-540-2,sun*,1343,SUN,太阳
-Castro-2010-540-3,moon*,1313,MOON,月亮
-Castro-2010-540-4,star*,1430,STAR,星星
-Castro-2010-540-5,cloud*,1489,CLOUD,云
-Castro-2010-540-6,wind,960,WIND,风
-Castro-2010-540-7,rain*,658,RAIN (PRECIPITATION),雨
-Castro-2010-540-8,lightning,1654,LIGHTNING,闪电
-Castro-2010-540-9,thunder,1150,THUNDER,雷(声)
-Castro-2010-540-10,rainbow,1733,RAINBOW,彩虹
-Castro-2010-540-11,water*,948,WATER,水
-Castro-2010-540-12,land,626,LAND,地(大地)
-Castro-2010-540-13,earth*,1228,EARTH (SOIL),土(土壤)
-Castro-2010-540-14,mud,640,MUD,泥(巴)
-Castro-2010-540-15,river*,666,RIVER,河
-Castro-2010-540-16,lake,624,LAKE,湖
-Castro-2010-540-17,mountain*,639,MOUNTAIN,山
-Castro-2010-540-18,gold,1369,GOLD,金(子)
-Castro-2010-540-19,silver,759,SILVER,银(子)
-Castro-2010-540-20,iron,621,IRON,铁
-Castro-2010-540-21,stone*,857,STONE,石头
-Castro-2010-540-22,fire*,221,FIRE,火
-Castro-2010-540-23,flame,889,FLAME,火焰
-Castro-2010-540-24,smoke*,778,SMOKE (EXHAUST),烟(炊烟)
-Castro-2010-540-25,night*,1233,NIGHT,夜
-Castro-2010-540-26,day,1260,DAY (24 HOURS),日(子)，天
-Castro-2010-540-27,today,1283,TODAY,今天
-Castro-2010-540-28,yesterday,1174,YESTERDAY,昨天
-Castro-2010-540-29,day before yesterday,1180,DAY BEFORE YESTERDAY,前天
-Castro-2010-540-30,tomorrow,1329,TOMORROW,明天
-Castro-2010-540-31,day after tomorrow,1179,DAY AFTER TOMORROW,后天
-Castro-2010-540-32,year,1226,YEAR,年
-Castro-2010-540-33,morning,1339,MORNING,早晨
-Castro-2010-540-34,ox,1169,OX,牛(黄牛)
-Castro-2010-540-35,water buffalo,2516,WATER BUFFALO,水牛
-Castro-2010-540-36,horse,615,HORSE,马
-Castro-2010-540-37,pig,1337,PIG,猪
-Castro-2010-540-38,goat,1502,GOAT,山羊
-Castro-2010-540-39,sheep,1331,SHEEP,绵羊
-Castro-2010-540-40,dog*,2009,DOG,狗
-Castro-2010-540-41,cat,1208,CAT,猫
-Castro-2010-540-42,rabbit,1136,RABBIT,兔子
-Castro-2010-540-43,dragon,2038,DRAGON,龙
-Castro-2010-540-44,wild animal,958,WILD ANIMAL,野生动物
-Castro-2010-540-45,bear,1820,BEAR,熊
-Castro-2010-540-46,tiger,846,TIGER,老虎
-Castro-2010-540-47,wolf,522,WOLF,狼
-Castro-2010-540-48,monkey,1350,MONKEY,猴子
-Castro-2010-540-49,otter,15,OTTER,水獭
-Castro-2010-540-50,rat,1490,RAT,老鼠
-Castro-2010-540-51,chicken,1318,CHICKEN,鸡
-Castro-2010-540-52,cockerel,1511,ROOSTER,公鸡
-Castro-2010-540-53,duck,1360,DUCK,鸭子
-Castro-2010-540-54,goose,1187,GOOSE,鹅
-Castro-2010-540-55,bird*,937,BIRD,鸟
-Castro-2010-540-56,dove,1853,DOVE,鸽
-Castro-2010-540-57,eagle,1905,EAGLE,老鹰
-Castro-2010-540-58,bat,1793,BAT,蝙蝠
-Castro-2010-540-59,frog,503,FROG,青蛙
-Castro-2010-540-60,fish*,227,FISH,鱼
-Castro-2010-540-61,snake,730,SNAKE,蛇
-Castro-2010-540-62,leech,2273,LEECH,蚂蟥/水蛭
-Castro-2010-540-63,spider,843,SPIDER,蜘蛛
-Castro-2010-540-64,insect,620,INSECT,昆虫
-Castro-2010-540-65,ant,587,ANT,蚂蚁
-Castro-2010-540-66,fly,1504,FLY (INSECT),苍蝇
-Castro-2010-540-67,bee,665,BEE,蜜蜂
-Castro-2010-540-68,mosquito,1509,MOSQUITO,蚊子
-Castro-2010-540-69,butterfly,1791,BUTTERFLY,蝴蝶
-Castro-2010-540-70,louse*,1392,LOUSE,虱子(衣上)
-Castro-2010-540-71,egg*,744,EGG,蛋
-Castro-2010-540-72,wing,1257,WING,翅膀
-Castro-2010-540-73,horn*,1393,HORN (ANATOMY),角
-Castro-2010-540-74,tail*,1220,TAIL,尾巴
-Castro-2010-540-75,tree*,906,TREE,树
-Castro-2010-540-76,pine tree,1740,PINE,松树
-Castro-2010-540-77,bamboo,1927,BAMBOO,竹子
-Castro-2010-540-78,wheat,1077,WHEAT,小麦
-Castro-2010-540-79,buckwheat,2040,BUCKWHEAT,荞麦/荞子
-Castro-2010-540-80,barley,932,BARLEY,大麦
-Castro-2010-540-81,maize,506,MAIZE,玉米
-Castro-2010-540-82,cooked rice,1191,COOKED RICE,饭
-Castro-2010-540-83,rice,926,RICE,大米
-Castro-2010-540-84,dish (vegetables),481,DISH,菜(饭菜)
-Castro-2010-540-85,soup,1547,SOUP,汤(菜汤)
-Castro-2010-540-86,peanut,2364,PEANUT,花生
-Castro-2010-540-87,walnut,2042,WALNUT,核桃
-Castro-2010-540-88,bean,832,BEAN,豆子
-Castro-2010-540-89,gourd,411,GOURD,葫芦
-Castro-2010-540-90,aubergine,1146,AUBERGINE,茄子
-Castro-2010-540-91,garlic,2368,GARLIC,蒜
-Castro-2010-540-92,ginger,2500,GINGER,姜
-Castro-2010-540-93,chilli pepper,919,CHILI PEPPER,辣椒
-Castro-2010-540-94,fruit,1507,FRUIT,果子(水果)
-Castro-2010-540-95,banana,868,BANANA,香蕉(芭蕉)
-Castro-2010-540-96,taro,351,TARO,芋头
-Castro-2010-540-97,tobacco,974,TOBACCO,烟(烟草)
-Castro-2010-540-98,grass,606,GRASS,草(青草)
-Castro-2010-540-99,mushroom,641,MUSHROOM,菌子
-Castro-2010-540-100,seed*,714,SEED,种子
-Castro-2010-540-101,root*,670,ROOT,根(树根)
-Castro-2010-540-102,leaf*,628,LEAF,叶子
-Castro-2010-540-103,branch,1531,BRANCH,树枝
-Castro-2010-540-104,shoot,1684,BUD,芽(种子芽)
-Castro-2010-540-105,flower,239,FLOWER,花
-Castro-2010-540-106,board,1227,BOARD,板子(木板)
-Castro-2010-540-107,stick,1295,STICK,棍子
-Castro-2010-540-108,bark*,1204,BARK,树皮
-Castro-2010-540-109,thorn,124,THORN,刺
-Castro-2010-540-110,ash*,646,ASH,灰(火灰、草木灰)
-Castro-2010-540-111,body,1480,BODY,身体
-Castro-2010-540-112,head*,1256,HEAD,头
-Castro-2010-540-113,brain,1583,BRAIN,脑髓
-Castro-2010-540-114,hair (on head)*,2648,HAIR (HEAD),头发
-Castro-2010-540-115,face,1560,FACE,脸
-Castro-2010-540-116,eye*,1248,EYE,眼睛
-Castro-2010-540-117,nose*,1221,NOSE,鼻子
-Castro-2010-540-118,ear*,1247,EAR,耳朵
-Castro-2010-540-119,mouth*,674,MOUTH,嘴(里面)
-Castro-2010-540-120,tooth*,1380,TOOTH,牙齿
-Castro-2010-540-121,tongue*,1205,TONGUE,舌头
-Castro-2010-540-122,beard,678,BEARD,胡子
-Castro-2010-540-123,chin,1510,CHIN,下巴
-Castro-2010-540-124,neck*,1333,NECK,脖子
-Castro-2010-540-125,shoulder,1482,SHOULDER,肩膀
-Castro-2010-540-126,hand+arm *,2121,ARM OR HAND,手·胳臂
-Castro-2010-540-127,hand,1277,HAND,手
-Castro-2010-540-128,arm,1673,ARM,胳臂
-Castro-2010-540-129,palm,1183,PALM OF HAND,手掌
-Castro-2010-540-130,wrist,799,WRIST,手腕
-Castro-2010-540-131,elbow,981,ELBOW,肘
-Castro-2010-540-132,finger,1303,FINGER,手指
-Castro-2010-540-133,thumb,1781,THUMB,拇指
-Castro-2010-540-134,fingernail*,1258,FINGERNAIL,指甲
-Castro-2010-540-135,buttocks,834,BUTTOCKS,屁股
-Castro-2010-540-136,leg,1297,LEG,腿
-Castro-2010-540-137,foot+leg*,2098,FOOT OR LEG,脚·腿
-Castro-2010-540-138,foot,1301,FOOT,脚
-Castro-2010-540-139,"calf, lower leg",498,CALF OF LEG,小腿
-Castro-2010-540-140,knee*,1371,KNEE,膝盖
-Castro-2010-540-141,claw*,72,CLAW,爪
-Castro-2010-540-142,chest,1592,CHEST,胸脯
-Castro-2010-540-143,back,1291,BACK,脊背
-Castro-2010-540-144,breast*,1402,BREAST,乳房
-Castro-2010-540-145,belly*,1251,BELLY,肚子(腹部)
-Castro-2010-540-146,waist,1681,WAIST,腰
-Castro-2010-540-147,skin*,763,SKIN,皮肤
-Castro-2010-540-148,bone*,1394,BONE,骨头
-Castro-2010-540-149,stomach,819,STOMACH,胃
-Castro-2010-540-150,navel,1838,NAVEL,脐(肚脐)
-Castro-2010-540-151,kidneys,489,KIDNEY,肾(腰子)
-Castro-2010-540-152,intestines,1991,INTESTINES,肠子
-Castro-2010-540-153,heart*,1223,HEART,心
-Castro-2010-540-154,liver*,1224,LIVER,肝
-Castro-2010-540-155,lungs,688,LUNG,肺
-Castro-2010-540-156,sweat,125,SWEAT (SUBSTANCE),汗
-Castro-2010-540-157,blood*,946,BLOOD,血
-Castro-2010-540-158,catarrh,208,NASAL MUCUS (SNOT),鼻涕
-Castro-2010-540-159,saliva,1503,SALIVA,口水
-Castro-2010-540-160,milk,635,MILK,奶
-Castro-2010-540-161,faeces,675,FAECES (EXCREMENT),屎
-Castro-2010-540-162,urine,1142,URINE,尿水
-Castro-2010-540-163,pus,1808,PUS,脓
-Castro-2010-540-164,feather*,1201,FEATHER,羽毛
-Castro-2010-540-165,tendon,1137,TENDON,筋(腱)
-Castro-2010-540-166,life,210,LIFE,生命
-Castro-2010-540-167,strength,202,STRENGTH,力气
-Castro-2010-540-168,person*,683,PERSON,人
-Castro-2010-540-169,man*,1554,MAN,男人
-Castro-2010-540-170,woman*,962,WOMAN,女人
-Castro-2010-540-171,child,1304,CHILD (YOUNG HUMAN),儿童
-Castro-2010-540-172,friend,1325,FRIEND,朋友
-Castro-2010-540-173,soldier,1941,SOLDIER,兵(士兵)
-Castro-2010-540-174,deaf person,458,DEAF PERSON,聋(子)
-Castro-2010-540-175,paternal grandfather,2560,PATERNAL GRANDFATHER,爷爷
-Castro-2010-540-176,father,1217,FATHER,父亲
-Castro-2010-540-177,mother,1216,MOTHER,母亲
-Castro-2010-540-178,elder brother,1759,OLDER BROTHER,哥哥
-Castro-2010-540-179,elder sister,1758,OLDER SISTER,姐姐
-Castro-2010-540-180,younger brother,1760,YOUNGER BROTHER,弟弟
-Castro-2010-540-181,younger sister,1761,YOUNGER SISTER,妹妹
-Castro-2010-540-182,husband,1200,HUSBAND,丈夫
-Castro-2010-540-183,wife,1199,WIFE,妻子
-Castro-2010-540-184,son,1620,SON,儿子
-Castro-2010-540-185,daughter,1357,DAUGHTER,女儿(姑娘)
-Castro-2010-540-186,daughter-in-law,1057,DAUGHTER-IN-LAW,儿媳(媳妇)
-Castro-2010-540-187,son-in-law,1056,SON-IN-LAW,女婿
-Castro-2010-540-188,grandson,1618,GRANDSON,孙子
-Castro-2010-540-189,house,1252,HOUSE,房子
-Castro-2010-540-190,wall,933,WALL (OF HOUSE),墙壁
-Castro-2010-540-191,beam,1132,BEAM,梁(椽子)
-Castro-2010-540-192,door,1567,DOOR,门
-Castro-2010-540-193,room,1450,ROOM,房间
-Castro-2010-540-194,paddy field,140,PADDY FIELD,田(稻田)
-Castro-2010-540-195,dry field,2794,FIELD (UPLAND),田(旱田)
-Castro-2010-540-196,hat,771,HAT,帽子
-Castro-2010-540-197,earring,770,EARRING,耳环
-Castro-2010-540-198,ring,1374,RING,戒指
-Castro-2010-540-199,clothes (upper),1895,CLOTHES,衣服(上衣)
-Castro-2010-540-200,shirt,1622,SHIRT,衬衫
-Castro-2010-540-201,trousers,809,TROUSERS,裤子
-Castro-2010-540-202,shoes,1381,SHOE,鞋(布鞋)
-Castro-2010-540-203,cloth,1616,CLOTH,布(棉布)
-Castro-2010-540-204,blanket,806,BLANKET,被子
-Castro-2010-540-205,pillow,1044,PILLOW,枕头
-Castro-2010-540-206,food,256,FOOD,食品
-Castro-2010-540-207,"fat, oil*",2551,ORGANIC FAT OR OIL,油(脂肪)
-Castro-2010-540-208,salt,1274,SALT,盐
-Castro-2010-540-209,meat*,634,MEAT,肉
-Castro-2010-540-210,liquor,842,LIQUOR,酒
-Castro-2010-540-211,tea,1373,TEA,茶
-Castro-2010-540-212,saw,1948,SAW,锯子
-Castro-2010-540-213,knife,1352,KNIFE,刀
-Castro-2010-540-214,axe,677,AXE,斧头
-Castro-2010-540-215,hoe,284,HOE,锄头
-Castro-2010-540-216,plough,2154,PLOUGH (INSTRUMENT),犁
-Castro-2010-540-217,needle,1382,NEEDLE (FOR SEWING),针
-Castro-2010-540-218,thread,1161,THREAD,线(缝衣用的)
-Castro-2010-540-219,rope,1218,ROPE,绳子
-Castro-2010-540-220,winnowing fan,2051,DUSTPAN,簸箕(簸米用)
-Castro-2010-540-221,mortar,224,MORTAR CRUSHER,臼(盐臼)
-Castro-2010-540-222,medicine,1372,MEDICINE,药
-Castro-2010-540-223,broom,245,BROOM,扫帚(扫把)
-Castro-2010-540-224,pan,31,PAN,锅(炒菜的)
-Castro-2010-540-225,bowl,1530,BOWL,小碗
-Castro-2010-540-226,chopsticks,1987,CHOPSTICKS,筷子
-Castro-2010-540-227,stairs,34,STAIRS,梯子(木梯)
-Castro-2010-540-228,firewood,10,FIREWOOD,柴
-Castro-2010-540-229,road*,667,ROAD,路
-Castro-2010-540-230,bridge,1011,BRIDGE,桥
-Castro-2010-540-231,boat,1844,BOAT,船
-Castro-2010-540-232,market,633,MARKET,街子(集市)
-Castro-2010-540-233,price,657,PRICE,价钱(价格)
-Castro-2010-540-234,name*,1405,NAME,名字
-Castro-2010-540-235,dream,2374,DREAM,梦
-Castro-2010-540-236,shadow,1388,SHADE,影子
-Castro-2010-540-237,ghost,1175,GHOST,鬼
-Castro-2010-540-238,god,3231,DEITY,神
-Castro-2010-540-239,soul,811,SOUL,灵魂
-Castro-2010-540-240,fence,1690,FENCE,栅栏
-Castro-2010-540-241,bow,994,BOW,弓
-Castro-2010-540-242,arrow,977,ARROW,箭
-Castro-2010-540-243,village,930,VILLAGE,村子(寨子)
-Castro-2010-540-244,flute,777,FLUTE,笛子
-Castro-2010-540-245,poison,655,POISON,毒药
-Castro-2010-540-246,to look*,1819,LOOK,看
-Castro-2010-540-247,to see,1409,SEE,看见
-Castro-2010-540-248,to show,1039,SHOW,给看
-Castro-2010-540-249,to hear,1408,HEAR,听见
-Castro-2010-540-250,to listen*,1608,LISTEN,听
-Castro-2010-540-251,to eat*,1336,EAT,吃
-Castro-2010-540-252,to drink*,1401,DRINK,喝
-Castro-2010-540-253,to bite*,1403,BITE,咬
-Castro-2010-540-254,to chew,321,CHEW,嚼
-Castro-2010-540-255,to lick,319,LICK,舔
-Castro-2010-540-256,to swallow,897,SWALLOW,咽(吞)
-Castro-2010-540-257,to spit,1440,SPIT,吐(吐口水)
-Castro-2010-540-258,to vomit,1278,VOMIT,呕吐
-Castro-2010-540-259,to blow,176,BLOW (WITH MOUTH),吹(吹火)
-Castro-2010-540-260,to say*,1623,SPEAK,说
-Castro-2010-540-261,to ask,1309,ASK (INQUIRE),问
-Castro-2010-540-262,to call,1084,CALL,叫
-Castro-2010-540-263,to tell,1711,TELL,告诉
-Castro-2010-540-264,to smell,1586,SMELL (PERCEIVE),闻(嗅)
-Castro-2010-540-265,to take,1749,TAKE,拿(拿书)
-Castro-2010-540-266,to pick,2148,PICK,摘(摘果子)
-Castro-2010-540-267,to tear,1735,TEAR (SHRED),撕
-Castro-2010-540-268,to wring,3224,WRING,拧(拧毛巾)
-Castro-2010-540-269,to extend,,,伸(伸手)
-Castro-2010-540-270,to pull,1455,PULL,拉(向前拉)
-Castro-2010-540-271,to push,1452,PUSH,推
-Castro-2010-540-272,to kick,1135,KICK,踢
-Castro-2010-540-273,to kneel,66,KNEEL,跪
-Castro-2010-540-274,to sit*,1416,SIT,坐
-Castro-2010-540-275,to carry on one‘s back,465,CARRY ON BACK,背(背小孩)
-Castro-2010-540-276,to lift,501,LIFT,提
-Castro-2010-540-277,to sleep*,1585,SLEEP,睡觉
-Castro-2010-540-278,to do,813,DO,做(做工)
-Castro-2010-540-279,to dig,1418,DIG,挖(挖洞)
-Castro-2010-540-280,"to grow, cultivate",1486,PLANT (SOMETHING),种(种菜)
-Castro-2010-540-281,"to chop, slice",2149,CHOP (INTO PIECES),切(切菜)
-Castro-2010-540-282,to chop down,463,FELL (A TREE),砍(砍树)
-Castro-2010-540-283,to split,1437,SPLIT,劈(劈木柴)
-Castro-2010-540-284,to buy,1869,BUY,买
-Castro-2010-540-285,to sell,1571,SELL,卖
-Castro-2010-540-286,to count,1420,COUNT,数(数东西)
-Castro-2010-540-287,to teach,709,TEACH,教
-Castro-2010-540-288,to boil (vegetables),2492,BOIL (SOMETHING),煮
-Castro-2010-540-289,to fry,991,FRY,炒
-Castro-2010-540-290,to steam,2067,STEAM (VERB),蒸
-Castro-2010-540-291,to hunt,1435,HUNT,打猎
-Castro-2010-540-292,to shoot,1172,SHOOT,射
-Castro-2010-540-293,to hit (a target),3307,HIT (A TARGET),中(射中)
-Castro-2010-540-294,to kill*,1417,KILL,杀(杀鸡)
-Castro-2010-540-295,to die*,1494,DIE,死
-Castro-2010-540-296,to mill,1033,GRIND,磨(磨米)
-Castro-2010-540-297,to winnow,2462,WINNOWING,簸(簸米)
-Castro-2010-540-298,to wear (a hat),3428,WEAR (ON HEAD),戴(戴帽子)
-Castro-2010-540-299,to wear (clothes),976,WEAR,穿(上衣)
-Castro-2010-540-300,to comb,2070,COMB (VERB),梳(梳头)
-Castro-2010-540-301,to sew,1457,SEW,缝(缝纫)
-Castro-2010-540-302,to patch,2243,REPAIR,补(补衣服)
-Castro-2010-540-303,to weave,133,WEAVE,编织(布)
-Castro-2010-540-304,to plait,3295,BRAID (VERB),编(编辫子)
-Castro-2010-540-305,to sweep,230,SWEEP,扫(扫地)
-Castro-2010-540-306,to cure,499,CURE,治(病)
-Castro-2010-540-307,to open,1156,OPEN,开(开门)
-Castro-2010-540-308,to close,1046,SHUT,关
-Castro-2010-540-309,to put down,998,PUT,放(下)[放置]
-Castro-2010-540-310,to hang,2884,HANG,挂(挂在墙上)
-Castro-2010-540-311,to untie,352,UNTIE,解(解绳结)
-Castro-2010-540-312,to release,1095,LET GO OR SET FREE,放(把鸟放走)
-Castro-2010-540-313,to pack,,,装(装进袋里)
-Castro-2010-540-314,to take out,,,拿出
-Castro-2010-540-315,to stuff,,,塞(塞在洞口)
-Castro-2010-540-316,to hide (thing),602,HIDE (CONCEAL),藏(东西)
-Castro-2010-540-317,to hide (self),2485,HIDE (ONESELF),藏/躲(自己)
-Castro-2010-540-318,to choose,1750,CHOOSE,挑选
-Castro-2010-540-319,to heap,1576,PILE UP,堆(堆积泥土)
-Castro-2010-540-320,to get,694,GET,得(得到)
-Castro-2010-540-321,to receive,7,GATHER,收(收起来)
-Castro-2010-540-322,to seek,1468,LOOK FOR,找(寻找)
-Castro-2010-540-323,to use,2072,USE (VERB),用(使用)
-Castro-2010-540-324,to play,1413,PLAY,玩耍
-Castro-2010-540-325,to dance,1879,DANCE,跳舞
-Castro-2010-540-326,to celebrate New Year,3430,CELEBRATE NEW YEAR,过年
-Castro-2010-540-327,to help,1897,HELP,帮助
-Castro-2010-540-328,to allocate,,,分配(分配)
-Castro-2010-540-329,to wait,1590,WAIT (FOR),等(候)
-Castro-2010-540-330,"to meet, come across",1831,MEET,遇见
-Castro-2010-540-331,to hit,1433,HIT,打(打人)
-Castro-2010-540-332,"to grab, rob",2073,ROB (VERB),抢
-Castro-2010-540-333,to steal,713,STEAL,偷
-Castro-2010-540-334,to cheat,3230,DECEIVE,骗
-Castro-2010-540-335,to laugh,1355,LAUGH,笑
-Castro-2010-540-336,to cry,1839,CRY,哭
-Castro-2010-540-337,to love,923,LOVE,爱(爱小孩)
-Castro-2010-540-338,to like,1117,LIKE,喜欢(喜欢唱歌)
-Castro-2010-540-339,to guess,1932,GUESS,猜
-Castro-2010-540-340,to believe,1890,BELIEVE,相信
-Castro-2010-540-341,to remember,707,REMEMBER,记得
-Castro-2010-540-342,to forget,1523,FORGET,忘记
-Castro-2010-540-343,to know*,1410,KNOW (SOMETHING),知道(懂)
-Castro-2010-540-344,to think,2271,THINK,想(思考)
-Castro-2010-540-345,to hate,1607,HATE,恨
-Castro-2010-540-346,to fear,1419,FEAR (BE AFRAID),怕
-Castro-2010-540-347,to dare,1779,DARE,敢
-Castro-2010-540-348,to know how to,972,BE ABLE,会(会做)
-Castro-2010-540-349,to be,1579,BE,是(这是什么)
-Castro-2010-540-350,to have,773,HAVE,有
-Castro-2010-540-351,to swim*,1439,SWIM,游(泳)
-Castro-2010-540-352,to save,2008,RESCUE,救(救人)
-Castro-2010-540-353,to walk*,1443,WALK,走(动作： 正在走)
-Castro-2010-540-354,to run,1519,RUN,跑
-Castro-2010-540-355,to come*,1446,COME,来
-Castro-2010-540-356,to come up,,,上来
-Castro-2010-540-357,to go,695,GO,去
-Castro-2010-540-358,to go up,705,GO UP (ASCEND),上去
-Castro-2010-540-359,to ascend,705,GO UP (ASCEND),上(上山)
-Castro-2010-540-360,to descend,2014,GO DOWN (DESCEND),下(下山)
-Castro-2010-540-361,to return,581,COME BACK,回
-Castro-2010-540-362,to arrive,1387,ARRIVE,到
-Castro-2010-540-363,to exit,1107,GO OUT,出(出去)
-Castro-2010-540-364,to enter,749,ENTER,进(进来)
-Castro-2010-540-365,to flee,956,FLEE,逃
-Castro-2010-540-366,to chase,1047,PURSUE,追(追上)
-Castro-2010-540-367,to jump,1829,JUMP,跳
-Castro-2010-540-368,to ride,367,RIDE,骑(骑马)
-Castro-2010-540-369,to recline*,1411,LIE (REST),躺
-Castro-2010-540-370,to exist,1460,IN,在
-Castro-2010-540-371,to crack,3080,SPLIT OPEN,裂开(墙裂开)
-Castro-2010-540-372,to roll,827,ROLL,滚(石头滚)
-Castro-2010-540-373,to fall down,1280,FALL,掉(掉在地下)
-Castro-2010-540-374,to snap in two,460,BREAK (OF ROPE),断(绳子断了)
-Castro-2010-540-375,to break,680,BREAK (DESTROY OR GET DESTROYED),破(罐子破了)
-Castro-2010-540-376,to soak,2069,SOAK (VERB),浸(浸种子)
-Castro-2010-540-377,to boil (water),792,BOIL (OF LIQUID),沸
-Castro-2010-540-378,to grow (up),479,GROW,长(长大)
-Castro-2010-540-379,to tremble,52,SHIVER,发抖
-Castro-2010-540-380,to swell,1573,SWELL,肿
-Castro-2010-540-381,to fly*,1441,FLY (MOVE THROUGH AIR),飞
-Castro-2010-540-382,to bark,1206,BARKING,吠(吠叫)
-Castro-2010-540-383,"to brood, incubate",2075,BROOD (VERB),孵
-Castro-2010-540-384,to start,1806,BEGIN,开始
-Castro-2010-540-385,to stop,2880,HALT (STOP),停
-Castro-2010-540-386,to write,1672,WRITE,写
-Castro-2010-540-387,to wash (self),1453,WASH,洗(手)
-Castro-2010-540-388,"to shake, sway",1909,SHAKE,摇动
-Castro-2010-540-389,to finish,1766,FINISH,完成
-Castro-2010-540-390,to give*,1447,GIVE,给
-Castro-2010-540-391,to destroy,681,DESTROY,破坏
-Castro-2010-540-392,to stand up,570,STAND UP,站起来
-Castro-2010-540-393,to stand*,1442,STAND,站(站位)
-Castro-2010-540-394,to peel,275,PEEL,剥皮(削皮)
-Castro-2010-540-395,to stir,696,STIR,搅拌
-Castro-2010-540-396,to weigh,1098,WEIGH,称
-Castro-2010-540-397,to burn*,2102,BURN,焚(烧)
-Castro-2010-540-398,to roast (in fire),1962,ROAST (SOMETHING),烧(烤)(火里)
-Castro-2010-540-399,to roast (over fire),1962,ROAST (SOMETHING),(烧)烤(火上)
-Castro-2010-540-400,to cough,879,COUGH,咳嗽
-Castro-2010-540-401,to yawn,1028,YAWN,打呵欠
-Castro-2010-540-402,to sneeze,1621,SNEEZE,打喷嚏
-Castro-2010-540-403,to give birth,1195,GIVE BIRTH,生(生孩子)
-Castro-2010-540-404,to fart,1159,FART,放屁
-Castro-2010-540-405,to defecate,676,SHIT (DEFECATE),作大便
-Castro-2010-540-406,to urinate,592,PISS,作小便
-Castro-2010-540-407,to live,1422,BE ALIVE,活
-Castro-2010-540-408,to borrow,1823,BORROW,借
-Castro-2010-540-409,to owe,369,OWE,欠
-Castro-2010-540-410,to exchange,2509,EXCHANGE,(交)换
-Castro-2010-540-411,to suck,1421,SUCK,吸
-Castro-2010-540-412,to lift (over head),501,LIFT,举起
-Castro-2010-540-413,to squeeze,1414,SQUEEZE,挤压
-Castro-2010-540-414,to pinch,378,PINCH,捏
-Castro-2010-540-415,white*,1335,WHITE,白
-Castro-2010-540-416,black*,163,BLACK,黑
-Castro-2010-540-417,red*,156,RED,红
-Castro-2010-540-418,yellow*,1424,YELLOW,黄
-Castro-2010-540-419,blue,837,BLUE,蓝
-Castro-2010-540-420,green*,1425,GREEN,绿
-Castro-2010-540-421,sharp,1396,SHARP,快(刀快)
-Castro-2010-540-422,blunt,379,BLUNT,钝(刀钝)
-Castro-2010-540-423,flat,1633,FLAT,平(路很平)
-Castro-2010-540-424,straight,1404,STRAIGHT,直(棍子很直)
-Castro-2010-540-425,round*,1395,ROUND,圆(球很圆)
-Castro-2010-540-426,soft,1856,SOFT,软
-Castro-2010-540-427,bright,679,BRIGHT,亮(房子很亮)
-Castro-2010-540-428,full*,1429,FULL,满
-Castro-2010-540-429,empty,1624,EMPTY,空
-Castro-2010-540-430,fat,1279,FAT (OBESE),胖
-Castro-2010-540-431,lean,2219,LEAN (MEAT),瘦(肉瘦)
-Castro-2010-540-432,dirty,1230,DIRTY,脏
-Castro-2010-540-433,old (person),2112,OLD (AGED),老(老人)
-Castro-2010-540-434,young,1207,YOUNG,年轻
-Castro-2010-540-435,good*,1035,GOOD,好(东西好)
-Castro-2010-540-436,bad,1292,BAD,坏(东西坏)
-Castro-2010-540-437,fast,1631,FAST,快(走得快)
-Castro-2010-540-438,slow,701,SLOW,慢(走得慢)
-Castro-2010-540-439,wet,1726,WET,湿(衣服湿)
-Castro-2010-540-440,dry*,1398,DRY,干(衣服干)
-Castro-2010-540-441,new*,1231,NEW,新
-Castro-2010-540-442,old,2113,OLD (USED),旧
-Castro-2010-540-443,raw,1959,RAW,生  (生肉)
-Castro-2010-540-444,ripe,178,RIPE,熟(熟肉)
-Castro-2010-540-445,early,672,EARLY,早(来得早)
-Castro-2010-540-446,hot*,1286,HOT,热
-Castro-2010-540-447,cold*,1287,COLD,冷
-Castro-2010-540-448,warm,1232,WARM,暖和
-Castro-2010-540-449,cool,2483,COLD (OF WEATHER),凉快
-Castro-2010-540-450,sour,1906,SOUR,酸
-Castro-2010-540-451,sweet,717,SWEET,甜
-Castro-2010-540-452,bitter,887,BITTER,苦
-Castro-2010-540-453,spicy,544,SPICY,辣
-Castro-2010-540-454,delicious,1813,TASTY,好吃
-Castro-2010-540-455,stinky,42,STINKING,臭
-Castro-2010-540-456,hungry,1533,BE HUNGRY,饿
-Castro-2010-540-457,thirsty,847,THIRSTY,渴
-Castro-2010-540-458,tired,1757,TIRED,累(疲倦)
-Castro-2010-540-459,sad,699,SAD,忧愁
-Castro-2010-540-460,ashamed,1894,ASHAMED,惭愧
-Castro-2010-540-461,glad,1495,HAPPY,高兴
-Castro-2010-540-462,angry,1826,ANGRY,生气
-Castro-2010-540-463,itchy,149,ITCHY,痒
-Castro-2010-540-464,hurting,1129,PAINFUL,痛
-Castro-2010-540-465,sick,1847,SICK,病(生病)
-Castro-2010-540-466,clever,1310,CLEVER,聪明
-Castro-2010-540-467,crazy,1899,MAD,疯狂
-Castro-2010-540-468,lazy,1564,LAZY,懒
-Castro-2010-540-469,brave,3,BRAVE,勇敢
-Castro-2010-540-470,drunk,1463,DRUNK,(喝)醉了
-Castro-2010-540-471,same,200,SAME,一样(相同)
-Castro-2010-540-472,expensive,1426,EXPENSIVE,贵
-Castro-2010-540-473,correct,1725,CORRECT (RIGHT),正确
-Castro-2010-540-474,enough,1881,ENOUGH,足够
-Castro-2010-540-475,near,1942,NEAR,近
-Castro-2010-540-476,high,2790,HIGH OR TALL,高
-Castro-2010-540-477,low,721,LOW,低
-Castro-2010-540-478,long*,1203,LONG,长
-Castro-2010-540-479,short,1645,SHORT,短
-Castro-2010-540-480,many*,1198,MANY,多
-Castro-2010-540-481,few,1242,FEW,少
-Castro-2010-540-482,wide,1243,WIDE,宽
-Castro-2010-540-483,narrow,1267,NARROW,窄
-Castro-2010-540-484,big*,1202,BIG,大
-Castro-2010-540-485,small*,1246,SMALL,小
-Castro-2010-540-486,deep,1593,DEEP,深(水深)
-Castro-2010-540-487,light,1052,LIGHT (WEIGHT),轻
-Castro-2010-540-488,heavy,1210,HEAVY,重
-Castro-2010-540-489,thick (2D),1244,THICK,厚
-Castro-2010-540-490,thin (2D),2306,THIN (OF LEAF AND CLOTH),薄
-Castro-2010-540-491,thick (3D),2151,COARSE,粗(粗大)
-Castro-2010-540-492,thin (3D),2305,THIN (OF HAIR AND THREAD),细(细小)
-Castro-2010-540-493,one*,1493,ONE,一
-Castro-2010-540-494,two*,1498,TWO,二
-Castro-2010-540-495,three,492,THREE,三
-Castro-2010-540-496,four,1500,FOUR,四
-Castro-2010-540-497,five,493,FIVE,五
-Castro-2010-540-498,six,1703,SIX,六
-Castro-2010-540-499,seven,1704,SEVEN,七
-Castro-2010-540-500,eight,1705,EIGHT,八
-Castro-2010-540-501,nine,1483,NINE,九
-Castro-2010-540-502,ten,1515,TEN,十
-Castro-2010-540-503,eleven,1706,ELEVEN,十一
-Castro-2010-540-504,twelve,1707,TWELVE,十二
-Castro-2010-540-505,twenty,1710,TWENTY,二十
-Castro-2010-540-506,twenty one,1734,TWENTY ONE,二十一
-Castro-2010-540-507,hundred,1634,HUNDRED,百
-Castro-2010-540-508,thousand,1843,THOUSAND,千
-Castro-2010-540-509,arm span (measure),,,庹(两臂伸直)
-Castro-2010-540-510,hand span (measure,,,柞(拇指-中指)
-Castro-2010-540-511,I*,1209,I,我
-Castro-2010-540-512,we incl.*,1131,WE (INCLUSIVE),我们
-Castro-2010-540-513,you sg.*,1215,THOU,你
-Castro-2010-540-514,you pl.,1213,YOU,你们
-Castro-2010-540-515,"he, she",2642,HE OR SHE,他
-Castro-2010-540-516,they,817,THEY,他们
-Castro-2010-540-517,this*,1214,THIS,这(个)
-Castro-2010-540-518,that*,78,THAT,那(个)
-Castro-2010-540-519,here,136,HERE,这里
-Castro-2010-540-520,there,1937,THERE,那里
-Castro-2010-540-521,over here,3410,OVER HERE,这边
-Castro-2010-540-522,over there,3411,OVER THERE,那边
-Castro-2010-540-523,between,689,BETWEEN,中间
-Castro-2010-540-524,left,244,LEFT,左边
-Castro-2010-540-525,right,1019,RIGHT,右边
-Castro-2010-540-526,beside,1816,BESIDE,旁边
-Castro-2010-540-527,above,1741,ABOVE,上面
-Castro-2010-540-528,beneath,1485,BELOW OR UNDER,下面
-Castro-2010-540-529,inside,1606,INSIDE,里面
-Castro-2010-540-530,outside,762,OUTSIDE,外面
-Castro-2010-540-531,in front of,1883,IN FRONT OF,前面
-Castro-2010-540-532,what?*,1236,WHAT,什么?
-Castro-2010-540-533,where?,1237,WHERE,哪里?
-Castro-2010-540-534,why?,1270,WHY,为什么?
-Castro-2010-540-535,how?,1239,HOW,怎么?
-Castro-2010-540-536,who?*,1235,WHO,谁?
-Castro-2010-540-537,now,1376,NOW,现在
-Castro-2010-540-538,before (temporal),1882,BEFORE,以前(过去)
-Castro-2010-540-539,after (temporal),1685,AFTER,今后(将来)
-Castro-2010-540-540,most,,,最(最大)
+1_sky,sky,1732,SKY,天(天空)
+2_sun,sun*,1343,SUN,太阳
+3_moon,moon*,1313,MOON,月亮
+4_star,star*,1430,STAR,星星
+5_cloud,cloud*,1489,CLOUD,云
+6_wind,wind,960,WIND,风
+7_rain,rain*,658,RAIN (PRECIPITATION),雨
+8_lightning,lightning,1654,LIGHTNING,闪电
+9_thunder,thunder,1150,THUNDER,雷(声)
+10_rainbow,rainbow,1733,RAINBOW,彩虹
+11_water,water*,948,WATER,水
+12_land,land,626,LAND,地(大地)
+13_earth,earth*,1228,EARTH (SOIL),土(土壤)
+14_mud,mud,640,MUD,泥(巴)
+15_river,river*,666,RIVER,河
+16_lake,lake,624,LAKE,湖
+17_mountain,mountain*,639,MOUNTAIN,山
+18_gold,gold,1369,GOLD,金(子)
+19_silver,silver,759,SILVER,银(子)
+20_iron,iron,621,IRON,铁
+21_stone,stone*,857,STONE,石头
+22_fire,fire*,221,FIRE,火
+23_flame,flame,889,FLAME,火焰
+24_smoke,smoke*,778,SMOKE (EXHAUST),烟(炊烟)
+25_night,night*,1233,NIGHT,夜
+26_day,day,1260,DAY (24 HOURS),日(子)，天
+27_today,today,1283,TODAY,今天
+28_yesterday,yesterday,1174,YESTERDAY,昨天
+29_daybeforeyesterday,day before yesterday,1180,DAY BEFORE YESTERDAY,前天
+30_tomorrow,tomorrow,1329,TOMORROW,明天
+31_dayaftertomorrow,day after tomorrow,1179,DAY AFTER TOMORROW,后天
+32_year,year,1226,YEAR,年
+33_morning,morning,1339,MORNING,早晨
+34_ox,ox,1169,OX,牛(黄牛)
+35_waterbuffalo,water buffalo,2516,WATER BUFFALO,水牛
+36_horse,horse,615,HORSE,马
+37_pig,pig,1337,PIG,猪
+38_goat,goat,1502,GOAT,山羊
+39_sheep,sheep,1331,SHEEP,绵羊
+40_dog,dog*,2009,DOG,狗
+41_cat,cat,1208,CAT,猫
+42_rabbit,rabbit,1136,RABBIT,兔子
+43_dragon,dragon,2038,DRAGON,龙
+44_wildanimal,wild animal,958,WILD ANIMAL,野生动物
+45_bear,bear,1820,BEAR,熊
+46_tiger,tiger,846,TIGER,老虎
+47_wolf,wolf,522,WOLF,狼
+48_monkey,monkey,1350,MONKEY,猴子
+49_otter,otter,15,OTTER,水獭
+50_rat,rat,1490,RAT,老鼠
+51_chicken,chicken,1318,CHICKEN,鸡
+52_cockerel,cockerel,1511,ROOSTER,公鸡
+53_duck,duck,1360,DUCK,鸭子
+54_goose,goose,1187,GOOSE,鹅
+55_bird,bird*,937,BIRD,鸟
+56_dove,dove,1853,DOVE,鸽
+57_eagle,eagle,1905,EAGLE,老鹰
+58_bat,bat,1793,BAT,蝙蝠
+59_frog,frog,503,FROG,青蛙
+60_fish,fish*,227,FISH,鱼
+61_snake,snake,730,SNAKE,蛇
+62_leech,leech,2273,LEECH,蚂蟥/水蛭
+63_spider,spider,843,SPIDER,蜘蛛
+64_insect,insect,620,INSECT,昆虫
+65_ant,ant,587,ANT,蚂蚁
+66_fly,fly,1504,FLY (INSECT),苍蝇
+67_bee,bee,665,BEE,蜜蜂
+68_mosquito,mosquito,1509,MOSQUITO,蚊子
+69_butterfly,butterfly,1791,BUTTERFLY,蝴蝶
+70_louse,louse*,1392,LOUSE,虱子(衣上)
+71_egg,egg*,744,EGG,蛋
+72_wing,wing,1257,WING,翅膀
+73_horn,horn*,1393,HORN (ANATOMY),角
+74_tail,tail*,1220,TAIL,尾巴
+75_tree,tree*,906,TREE,树
+76_pinetree,pine tree,1740,PINE,松树
+77_bamboo,bamboo,1927,BAMBOO,竹子
+78_wheat,wheat,1077,WHEAT,小麦
+79_buckwheat,buckwheat,2040,BUCKWHEAT,荞麦/荞子
+80_barley,barley,932,BARLEY,大麦
+81_maize,maize,506,MAIZE,玉米
+82_cookedrice,cooked rice,1191,COOKED RICE,饭
+83_rice,rice,926,RICE,大米
+84_dishvegetables,dish (vegetables),3542,PREPARED FOOD,菜(饭菜)
+85_soup,soup,1547,SOUP,汤(菜汤)
+86_peanut,peanut,2364,PEANUT,花生
+87_walnut,walnut,2042,WALNUT,核桃
+88_bean,bean,832,BEAN,豆子
+89_gourd,gourd,411,GOURD,葫芦
+90_aubergine,aubergine,1146,AUBERGINE,茄子
+91_garlic,garlic,2368,GARLIC,蒜
+92_ginger,ginger,2500,GINGER,姜
+93_chillipepper,chilli pepper,919,CHILI PEPPER,辣椒
+94_fruit,fruit,1507,FRUIT,果子(水果)
+95_banana,banana,868,BANANA,香蕉(芭蕉)
+96_taro,taro,351,TARO,芋头
+97_tobacco,tobacco,974,TOBACCO,烟(烟草)
+98_grass,grass,606,GRASS,草(青草)
+99_mushroom,mushroom,641,MUSHROOM,菌子
+100_seed,seed*,714,SEED,种子
+101_root,root*,670,ROOT,根(树根)
+102_leaf,leaf*,628,LEAF,叶子
+103_branch,branch,1531,BRANCH,树枝
+104_shoot,shoot,1684,BUD,芽(种子芽)
+105_flower,flower,239,FLOWER,花
+106_board,board,1227,BOARD,板子(木板)
+107_stick,stick,1295,STICK,棍子
+108_bark,bark*,1204,BARK,树皮
+109_thorn,thorn,124,THORN,刺
+110_ash,ash*,646,ASH,灰(火灰、草木灰)
+111_body,body,1480,BODY,身体
+112_head,head*,1256,HEAD,头
+113_brain,brain,1583,BRAIN,脑髓
+114_haironhead,hair (on head)*,2648,HAIR (HEAD),头发
+115_face,face,1560,FACE,脸
+116_eye,eye*,1248,EYE,眼睛
+117_nose,nose*,1221,NOSE,鼻子
+118_ear,ear*,1247,EAR,耳朵
+119_mouth,mouth*,674,MOUTH,嘴(里面)
+120_tooth,tooth*,1380,TOOTH,牙齿
+121_tongue,tongue*,1205,TONGUE,舌头
+122_beard,beard,678,BEARD,胡子
+123_chin,chin,1510,CHIN,下巴
+124_neck,neck*,1333,NECK,脖子
+125_shoulder,shoulder,1482,SHOULDER,肩膀
+126_handarm,hand+arm *,2121,ARM OR HAND,手·胳臂
+127_hand,hand,1277,HAND,手
+128_arm,arm,1673,ARM,胳臂
+129_palm,palm,1183,PALM OF HAND,手掌
+130_wrist,wrist,799,WRIST,手腕
+131_elbow,elbow,981,ELBOW,肘
+132_finger,finger,1303,FINGER,手指
+133_thumb,thumb,1781,THUMB,拇指
+134_fingernail,fingernail*,1258,FINGERNAIL,指甲
+135_buttocks,buttocks,834,BUTTOCKS,屁股
+136_leg,leg,1297,LEG,腿
+137_footleg,foot+leg*,2098,FOOT OR LEG,脚·腿
+138_foot,foot,1301,FOOT,脚
+139_calflowerleg,"calf, lower leg",498,CALF OF LEG,小腿
+140_knee,knee*,1371,KNEE,膝盖
+141_claw,claw*,72,CLAW,爪
+142_chest,chest,1592,CHEST,胸脯
+143_back,back,1291,BACK,脊背
+144_breast,breast*,1402,BREAST,乳房
+145_belly,belly*,1251,BELLY,肚子(腹部)
+146_waist,waist,1681,WAIST,腰
+147_skin,skin*,763,SKIN,皮肤
+148_bone,bone*,1394,BONE,骨头
+149_stomach,stomach,819,STOMACH,胃
+150_navel,navel,1838,NAVEL,脐(肚脐)
+151_kidneys,kidneys,489,KIDNEY,肾(腰子)
+152_intestines,intestines,1991,INTESTINES,肠子
+153_heart,heart*,1223,HEART,心
+154_liver,liver*,1224,LIVER,肝
+155_lungs,lungs,688,LUNG,肺
+156_sweat,sweat,125,SWEAT (SUBSTANCE),汗
+157_blood,blood*,946,BLOOD,血
+158_catarrh,catarrh,208,NASAL MUCUS (SNOT),鼻涕
+159_saliva,saliva,1503,SALIVA,口水
+160_milk,milk,635,MILK,奶
+161_faeces,faeces,675,FAECES (EXCREMENT),屎
+162_urine,urine,1142,URINE,尿水
+163_pus,pus,1808,PUS,脓
+164_feather,feather*,1201,FEATHER,羽毛
+165_tendon,tendon,1137,TENDON,筋(腱)
+166_life,life,210,LIFE,生命
+167_strength,strength,202,STRENGTH,力气
+168_person,person*,683,PERSON,人
+169_man,man*,1554,MAN,男人
+170_woman,woman*,962,WOMAN,女人
+171_child,child,1304,CHILD (YOUNG HUMAN),儿童
+172_friend,friend,1325,FRIEND,朋友
+173_soldier,soldier,1941,SOLDIER,兵(士兵)
+174_deafperson,deaf person,458,DEAF PERSON,聋(子)
+175_paternalgrandfather,paternal grandfather,2560,PATERNAL GRANDFATHER,爷爷
+176_father,father,1217,FATHER,父亲
+177_mother,mother,1216,MOTHER,母亲
+178_elderbrother,elder brother,1759,OLDER BROTHER,哥哥
+179_eldersister,elder sister,1758,OLDER SISTER,姐姐
+180_youngerbrother,younger brother,1760,YOUNGER BROTHER,弟弟
+181_youngersister,younger sister,1761,YOUNGER SISTER,妹妹
+182_husband,husband,1200,HUSBAND,丈夫
+183_wife,wife,1199,WIFE,妻子
+184_son,son,1620,SON,儿子
+185_daughter,daughter,1357,DAUGHTER,女儿(姑娘)
+186_daughterinlaw,daughter-in-law,1057,DAUGHTER-IN-LAW,儿媳(媳妇)
+187_soninlaw,son-in-law,1056,SON-IN-LAW,女婿
+188_grandson,grandson,1618,GRANDSON,孙子
+189_house,house,1252,HOUSE,房子
+190_wall,wall,933,WALL (OF HOUSE),墙壁
+191_beam,beam,1132,BEAM,梁(椽子)
+192_door,door,1567,DOOR,门
+193_room,room,1450,ROOM,房间
+194_paddyfield,paddy field,140,PADDY FIELD,田(稻田)
+195_dryfield,dry field,2794,FIELD (UPLAND),田(旱田)
+196_hat,hat,771,HAT,帽子
+197_earring,earring,770,EARRING,耳环
+198_ring,ring,1374,RING,戒指
+199_clothesupper,clothes (upper),1895,CLOTHES,衣服(上衣)
+200_shirt,shirt,1622,SHIRT,衬衫
+201_trousers,trousers,809,TROUSERS,裤子
+202_shoes,shoes,1381,SHOE,鞋(布鞋)
+203_cloth,cloth,1616,CLOTH,布(棉布)
+204_blanket,blanket,806,BLANKET,被子
+205_pillow,pillow,1044,PILLOW,枕头
+206_food,food,256,FOOD,食品
+207_fatoil,"fat, oil*",2551,ORGANIC FAT OR OIL,油(脂肪)
+208_salt,salt,1274,SALT,盐
+209_meat,meat*,634,MEAT,肉
+210_liquor,liquor,842,LIQUOR,酒
+211_tea,tea,1373,TEA,茶
+212_saw,saw,1948,SAW,锯子
+213_knife,knife,1352,KNIFE,刀
+214_axe,axe,677,AXE,斧头
+215_hoe,hoe,284,HOE,锄头
+216_plough,plough,2154,PLOUGH (INSTRUMENT),犁
+217_needle,needle,1382,NEEDLE (FOR SEWING),针
+218_thread,thread,1161,THREAD,线(缝衣用的)
+219_rope,rope,1218,ROPE,绳子
+220_winnowingfan,winnowing fan,2051,DUSTPAN,簸箕(簸米用)
+221_mortar,mortar,224,MORTAR CRUSHER,臼(盐臼)
+222_medicine,medicine,1372,MEDICINE,药
+223_broom,broom,245,BROOM,扫帚(扫把)
+224_pan,pan,31,PAN,锅(炒菜的)
+225_bowl,bowl,1530,BOWL,小碗
+226_chopsticks,chopsticks,1987,CHOPSTICKS,筷子
+227_stairs,stairs,1464,LADDER,梯子(木梯)
+228_firewood,firewood,10,FIREWOOD,柴
+229_road,road*,667,ROAD,路
+230_bridge,bridge,1011,BRIDGE,桥
+231_boat,boat,1844,BOAT,船
+232_market,market,633,MARKET,街子(集市)
+233_price,price,657,PRICE,价钱(价格)
+234_name,name*,1405,NAME,名字
+235_dream,dream,2374,DREAM,梦
+236_shadow,shadow,1388,SHADE,影子
+237_ghost,ghost,1175,GHOST,鬼
+238_god,god,3231,DEITY,神
+239_soul,soul,811,SOUL,灵魂
+240_fence,fence,1690,FENCE,栅栏
+241_bow,bow,994,BOW,弓
+242_arrow,arrow,977,ARROW,箭
+243_village,village,930,VILLAGE,村子(寨子)
+244_flute,flute,777,FLUTE,笛子
+245_poison,poison,655,POISON,毒药
+246_tolook,to look*,1819,LOOK,看
+247_tosee,to see,1409,SEE,看见
+248_toshow,to show,1039,SHOW,给看
+249_tohear,to hear,1408,HEAR,听见
+250_tolisten,to listen*,1608,LISTEN,听
+251_toeat,to eat*,1336,EAT,吃
+252_todrink,to drink*,1401,DRINK,喝
+253_tobite,to bite*,1403,BITE,咬
+254_tochew,to chew,321,CHEW,嚼
+255_tolick,to lick,319,LICK,舔
+256_toswallow,to swallow,897,SWALLOW,咽(吞)
+257_tospit,to spit,1440,SPIT,吐(吐口水)
+258_tovomit,to vomit,1278,VOMIT,呕吐
+259_toblow,to blow,176,BLOW (WITH MOUTH),吹(吹火)
+260_tosay,to say*,1623,SPEAK,说
+261_toask,to ask,1309,ASK (INQUIRE),问
+262_tocall,to call,1084,CALL,叫
+263_totell,to tell,1711,TELL,告诉
+264_tosmell,to smell,1586,SMELL (PERCEIVE),闻(嗅)
+265_totake,to take,1749,TAKE,拿(拿书)
+266_topick,to pick,2148,PICK,摘(摘果子)
+267_totear,to tear,1735,TEAR (SHRED),撕
+268_towring,to wring,3224,WRING,拧(拧毛巾)
+269_toextend,to extend,,,伸(伸手)
+270_topull,to pull,1455,PULL,拉(向前拉)
+271_topush,to push,1452,PUSH,推
+272_tokick,to kick,1135,KICK,踢
+273_tokneel,to kneel,66,KNEEL,跪
+274_tosit,to sit*,1416,SIT,坐
+275_tocarryononesback,to carry on one‘s back,465,CARRY ON BACK,背(背小孩)
+276_tolift,to lift,501,LIFT,提
+277_tosleep,to sleep*,1585,SLEEP,睡觉
+278_todo,to do,813,DO,做(做工)
+279_todig,to dig,1418,DIG,挖(挖洞)
+280_togrowcultivate,"to grow, cultivate",3461,GROW PLANTS,种(种菜)
+281_tochopslice,"to chop, slice",2149,CHOP (INTO PIECES),切(切菜)
+282_tochopdown,to chop down,355,CUT DOWN,砍(砍树)
+283_tosplit,to split,1437,SPLIT,劈(劈木柴)
+284_tobuy,to buy,1869,BUY,买
+285_tosell,to sell,1571,SELL,卖
+286_tocount,to count,1420,COUNT,数(数东西)
+287_toteach,to teach,709,TEACH,教
+288_toboilvegetables,to boil (vegetables),2492,BOIL (SOMETHING),煮
+289_tofry,to fry,991,FRY,炒
+290_tosteam,to steam,2067,STEAM (VERB),蒸
+291_tohunt,to hunt,1435,HUNT,打猎
+292_toshoot,to shoot,1172,SHOOT,射
+293_tohitatarget,to hit (a target),3307,HIT (A TARGET),中(射中)
+294_tokill,to kill*,1417,KILL,杀(杀鸡)
+295_todie,to die*,1494,DIE,死
+296_tomill,to mill,1033,GRIND,磨(磨米)
+297_towinnow,to winnow,2462,WINNOWING,簸(簸米)
+298_towearahat,to wear (a hat),3428,WEAR (ON HEAD),戴(戴帽子)
+299_towearclothes,to wear (clothes),976,WEAR,穿(上衣)
+300_tocomb,to comb,2070,COMB (VERB),梳(梳头)
+301_tosew,to sew,1457,SEW,缝(缝纫)
+302_topatch,to patch,2243,REPAIR,补(补衣服)
+303_toweave,to weave,133,WEAVE,编织(布)
+304_toplait,to plait,3295,BRAID (VERB),编(编辫子)
+305_tosweep,to sweep,230,SWEEP,扫(扫地)
+306_tocure,to cure,499,CURE,治(病)
+307_toopen,to open,1156,OPEN,开(开门)
+308_toclose,to close,1046,SHUT,关
+309_toputdown,to put down,998,PUT,放(下)[放置]
+310_tohang,to hang,2884,HANG,挂(挂在墙上)
+311_tountie,to untie,352,UNTIE,解(解绳结)
+312_torelease,to release,1095,LET GO OR SET FREE,放(把鸟放走)
+313_topack,to pack,,,装(装进袋里)
+314_totakeout,to take out,,,拿出
+315_tostuff,to stuff,,,塞(塞在洞口)
+316_tohidething,to hide (thing),602,HIDE (CONCEAL),藏(东西)
+317_tohideself,to hide (self),2485,HIDE (ONESELF),藏/躲(自己)
+318_tochoose,to choose,1750,CHOOSE,挑选
+319_toheap,to heap,1576,PILE UP,堆(堆积泥土)
+320_toget,to get,694,GET,得(得到)
+321_toreceive,to receive,7,GATHER,收(收起来)
+322_toseek,to seek,1468,LOOK FOR,找(寻找)
+323_touse,to use,2072,USE (VERB),用(使用)
+324_toplay,to play,1413,PLAY,玩耍
+325_todance,to dance,1879,DANCE,跳舞
+326_tocelebratenewyear,to celebrate New Year,3430,CELEBRATE NEW YEAR,过年
+327_tohelp,to help,1897,HELP,帮助
+328_toallocate,to allocate,,,分配(分配)
+329_towait,to wait,1590,WAIT (FOR),等(候)
+330_tomeetcomeacross,"to meet, come across",1831,MEET,遇见
+331_tohit,to hit,1433,HIT,打(打人)
+332_tograbrob,"to grab, rob",2073,ROB (VERB),抢
+333_tosteal,to steal,713,STEAL,偷
+334_tocheat,to cheat,3230,DECEIVE,骗
+335_tolaugh,to laugh,1355,LAUGH,笑
+336_tocry,to cry,1839,CRY,哭
+337_tolove,to love,923,LOVE,爱(爱小孩)
+338_tolike,to like,1117,LIKE,喜欢(喜欢唱歌)
+339_toguess,to guess,1932,GUESS,猜
+340_tobelieve,to believe,1890,BELIEVE,相信
+341_toremember,to remember,707,REMEMBER,记得
+342_toforget,to forget,1523,FORGET,忘记
+343_toknow,to know*,1410,KNOW (SOMETHING),知道(懂)
+344_tothink,to think,2271,THINK,想(思考)
+345_tohate,to hate,1607,HATE,恨
+346_tofear,to fear,1419,FEAR (BE AFRAID),怕
+347_todare,to dare,1779,DARE,敢
+348_toknowhowto,to know how to,972,BE ABLE,会(会做)
+349_tobe,to be,1579,BE,是(这是什么)
+350_tohave,to have,773,HAVE,有
+351_toswim,to swim*,1439,SWIM,游(泳)
+352_tosave,to save,2008,RESCUE,救(救人)
+353_towalk,to walk*,1443,WALK,走(动作： 正在走)
+354_torun,to run,1519,RUN,跑
+355_tocome,to come*,1446,COME,来
+356_tocomeup,to come up,,,上来
+357_togo,to go,695,GO,去
+358_togoup,to go up,705,GO UP (ASCEND),上去
+359_toascend,to ascend,705,GO UP (ASCEND),上(上山)
+360_todescend,to descend,2014,GO DOWN (DESCEND),下(下山)
+361_toreturn,to return,581,COME BACK,回
+362_toarrive,to arrive,1387,ARRIVE,到
+363_toexit,to exit,1107,GO OUT,出(出去)
+364_toenter,to enter,749,ENTER,进(进来)
+365_toflee,to flee,956,FLEE,逃
+366_tochase,to chase,1047,PURSUE,追(追上)
+367_tojump,to jump,1829,JUMP,跳
+368_toride,to ride,367,RIDE,骑(骑马)
+369_torecline,to recline*,1411,LIE (REST),躺
+370_toexist,to exist,1460,IN,在
+371_tocrack,to crack,3080,SPLIT OPEN,裂开(墙裂开)
+372_toroll,to roll,827,ROLL,滚(石头滚)
+373_tofalldown,to fall down,1280,FALL,掉(掉在地下)
+374_tosnapintwo,to snap in two,460,BREAK (OF ROPE),断(绳子断了)
+375_tobreak,to break,680,BREAK (DESTROY OR GET DESTROYED),破(罐子破了)
+376_tosoak,to soak,2069,SOAK (VERB),浸(浸种子)
+377_toboilwater,to boil (water),792,BOIL (OF LIQUID),沸
+378_togrowup,to grow (up),479,GROW,长(长大)
+379_totremble,to tremble,52,SHIVER,发抖
+380_toswell,to swell,1573,SWELL,肿
+381_tofly,to fly*,1441,FLY (MOVE THROUGH AIR),飞
+382_tobark,to bark,1206,BARKING,吠(吠叫)
+383_tobroodincubate,"to brood, incubate",2075,BROOD (VERB),孵
+384_tostart,to start,3447,BEGIN OR START,开始
+385_tostop,to stop,2880,HALT (STOP),停
+386_towrite,to write,1672,WRITE,写
+387_towashself,to wash (self),1453,WASH,洗(手)
+388_toshakesway,"to shake, sway",1909,SHAKE,摇动
+389_tofinish,to finish,1766,FINISH,完成
+390_togive,to give*,1447,GIVE,给
+391_todestroy,to destroy,681,DESTROY,破坏
+392_tostandup,to stand up,570,STAND UP,站起来
+393_tostand,to stand*,1442,STAND,站(站位)
+394_topeel,to peel,275,PEEL,剥皮(削皮)
+395_tostir,to stir,696,STIR,搅拌
+396_toweigh,to weigh,1098,WEIGH,称
+397_toburn,to burn*,2102,BURN,焚(烧)
+398_toroastinfire,to roast (in fire),1962,ROAST (SOMETHING),烧(烤)(火里)
+399_toroastoverfire,to roast (over fire),1962,ROAST (SOMETHING),(烧)烤(火上)
+400_tocough,to cough,879,COUGH,咳嗽
+401_toyawn,to yawn,1028,YAWN,打呵欠
+402_tosneeze,to sneeze,1621,SNEEZE,打喷嚏
+403_togivebirth,to give birth,1195,GIVE BIRTH,生(生孩子)
+404_tofart,to fart,1159,FART,放屁
+405_todefecate,to defecate,676,SHIT (DEFECATE),作大便
+406_tourinate,to urinate,592,PISS,作小便
+407_tolive,to live,1422,BE ALIVE,活
+408_toborrow,to borrow,1823,BORROW,借
+409_toowe,to owe,369,OWE,欠
+410_toexchange,to exchange,2509,EXCHANGE,(交)换
+411_tosuck,to suck,1421,SUCK,吸
+412_toliftoverhead,to lift (over head),501,LIFT,举起
+413_tosqueeze,to squeeze,1414,SQUEEZE,挤压
+414_topinch,to pinch,378,PINCH,捏
+415_white,white*,1335,WHITE,白
+416_black,black*,163,BLACK,黑
+417_red,red*,156,RED,红
+418_yellow,yellow*,1424,YELLOW,黄
+419_blue,blue,837,BLUE,蓝
+420_green,green*,1425,GREEN,绿
+421_sharp,sharp,1396,SHARP,快(刀快)
+422_blunt,blunt,379,BLUNT,钝(刀钝)
+423_flat,flat,1633,FLAT,平(路很平)
+424_straight,straight,1404,STRAIGHT,直(棍子很直)
+425_round,round*,1395,ROUND,圆(球很圆)
+426_soft,soft,1856,SOFT,软
+427_bright,bright,679,BRIGHT,亮(房子很亮)
+428_full,full*,1429,FULL,满
+429_empty,empty,1624,EMPTY,空
+430_fat,fat,1279,FAT (OBESE),胖
+431_lean,lean,2219,LEAN (MEAT),瘦(肉瘦)
+432_dirty,dirty,1230,DIRTY,脏
+433_oldperson,old (person),2112,OLD (AGED),老(老人)
+434_young,young,1207,YOUNG,年轻
+435_good,good*,1035,GOOD,好(东西好)
+436_bad,bad,1292,BAD,坏(东西坏)
+437_fast,fast,1631,FAST,快(走得快)
+438_slow,slow,701,SLOW,慢(走得慢)
+439_wet,wet,1726,WET,湿(衣服湿)
+440_dry,dry*,1398,DRY,干(衣服干)
+441_new,new*,1231,NEW,新
+442_old,old,2113,OLD (USED),旧
+443_raw,raw,1959,RAW,生  (生肉)
+444_ripe,ripe,178,RIPE,熟(熟肉)
+445_early,early,672,EARLY,早(来得早)
+446_hot,hot*,1286,HOT,热
+447_cold,cold*,1287,COLD,冷
+448_warm,warm,1232,WARM,暖和
+449_cool,cool,2483,COLD (OF WEATHER),凉快
+450_sour,sour,1906,SOUR,酸
+451_sweet,sweet,717,SWEET,甜
+452_bitter,bitter,887,BITTER,苦
+453_spicy,spicy,544,SPICY,辣
+454_delicious,delicious,1813,TASTY,好吃
+455_stinky,stinky,42,STINKING,臭
+456_hungry,hungry,1533,BE HUNGRY,饿
+457_thirsty,thirsty,847,THIRSTY,渴
+458_tired,tired,1757,TIRED,累(疲倦)
+459_sad,sad,699,SAD,忧愁
+460_ashamed,ashamed,1894,ASHAMED,惭愧
+461_glad,glad,1495,HAPPY,高兴
+462_angry,angry,1826,ANGRY,生气
+463_itchy,itchy,149,ITCHY,痒
+464_hurting,hurting,1129,PAINFUL,痛
+465_sick,sick,1847,SICK,病(生病)
+466_clever,clever,1310,CLEVER,聪明
+467_crazy,crazy,1899,MAD,疯狂
+468_lazy,lazy,1564,LAZY,懒
+469_brave,brave,3,BRAVE,勇敢
+470_drunk,drunk,1463,DRUNK,(喝)醉了
+471_same,same,200,SAME,一样(相同)
+472_expensive,expensive,1426,EXPENSIVE,贵
+473_correct,correct,1725,CORRECT (RIGHT),正确
+474_enough,enough,1881,ENOUGH,足够
+475_near,near,1942,NEAR,近
+476_high,high,2790,HIGH OR TALL,高
+477_low,low,721,LOW,低
+478_long,long*,1203,LONG,长
+479_short,short,1645,SHORT,短
+480_many,many*,1198,MANY,多
+481_few,few,1242,FEW,少
+482_wide,wide,1243,WIDE,宽
+483_narrow,narrow,1267,NARROW,窄
+484_big,big*,1202,BIG,大
+485_small,small*,1246,SMALL,小
+486_deep,deep,1593,DEEP,深(水深)
+487_light,light,1052,LIGHT (WEIGHT),轻
+488_heavy,heavy,1210,HEAVY,重
+489_thick2d,thick (2D),1244,THICK,厚
+490_thin2d,thin (2D),2306,THIN (OF LEAF AND CLOTH),薄
+491_thick3d,thick (3D),2151,COARSE,粗(粗大)
+492_thin3d,thin (3D),2305,THIN (OF HAIR AND THREAD),细(细小)
+493_one,one*,1493,ONE,一
+494_two,two*,1498,TWO,二
+495_three,three,492,THREE,三
+496_four,four,1500,FOUR,四
+497_five,five,493,FIVE,五
+498_six,six,1703,SIX,六
+499_seven,seven,1704,SEVEN,七
+500_eight,eight,1705,EIGHT,八
+501_nine,nine,1483,NINE,九
+502_ten,ten,1515,TEN,十
+503_eleven,eleven,1706,ELEVEN,十一
+504_twelve,twelve,1707,TWELVE,十二
+505_twenty,twenty,1710,TWENTY,二十
+506_twentyone,twenty one,1734,TWENTY ONE,二十一
+507_hundred,hundred,1634,HUNDRED,百
+508_thousand,thousand,1843,THOUSAND,千
+509_armspanmeasure,arm span (measure),,,庹(两臂伸直)
+510_handspanmeasure,hand span (measure,,,柞(拇指-中指)
+511_i,I*,1209,I,我
+512_weincl,we incl.*,1131,WE (INCLUSIVE),我们
+513_yousg,you sg.*,1215,THOU,你
+514_youpl,you pl.,1213,YOU,你们
+515_heshe,"he, she",2642,HE OR SHE,他
+516_they,they,817,THEY,他们
+517_this,this*,1214,THIS,这(个)
+518_that,that*,78,THAT,那(个)
+519_here,here,136,HERE,这里
+520_there,there,1937,THERE,那里
+521_overhere,over here,3410,OVER HERE,这边
+522_overthere,over there,3411,OVER THERE,那边
+523_between,between,689,BETWEEN,中间
+524_left,left,244,LEFT,左边
+525_right,right,1019,RIGHT,右边
+526_beside,beside,1816,BESIDE,旁边
+527_above,above,1741,ABOVE,上面
+528_beneath,beneath,1485,BELOW OR UNDER,下面
+529_inside,inside,1606,INSIDE,里面
+530_outside,outside,762,OUTSIDE,外面
+531_infrontof,in front of,1883,IN FRONT OF,前面
+532_what,what?*,1236,WHAT,什么?
+533_where,where?,1237,WHERE,哪里?
+534_why,why?,1270,WHY,为什么?
+535_how,how?,1239,HOW,怎么?
+536_who,who?*,1235,WHO,谁?
+537_now,now,1376,NOW,现在
+538_beforetemporal,before (temporal),1882,BEFORE,以前(过去)
+539_aftertemporal,after (temporal),1685,AFTER,今后(将来)
+540_most,most,,,最(最大)
