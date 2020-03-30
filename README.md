@@ -8,11 +8,10 @@ This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/
 
 Available online at http://www.sil.org/silesr/2010/silesr2010-001_English.pdf
 
+
 Conceptlists in Concepticon:
-- [Castro-2010-540](http://concepticon.clld.org/contributions/Castro-2010-540)
-
+- [Castro-2010-540](https://concepticon.clld.org/contributions/Castro-2010-540)
 ## Statistics
-
 
 
 ![Glottolog: 100%](https://img.shields.io/badge/Glottolog-100%25-brightgreen.svg "Glottolog: 100%")
@@ -28,5 +27,5 @@ Conceptlists in Concepticon:
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
 - **Tokens:** 15,729
-- **Segments:** 110 (0 BIPA errors, 0 CTLS sound class errors, 111 CLTS modified)
+- **Segments:** 110 (0 BIPA errors, 0 CTLS sound class errors, 110 CLTS modified)
 - **Inventory size (avg):** 73.17
