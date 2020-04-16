@@ -13,7 +13,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 12_land,land,626,LAND,地(大地)
 13_earth,earth*,1228,EARTH (SOIL),土(土壤)
 14_mud,mud,640,MUD,泥(巴)
-15_river,river*,666,RIVER,河
+15_river,river*,3311,FLOWING BODY OF WATER,河
 16_lake,lake,624,LAKE,湖
 17_mountain,mountain*,639,MOUNTAIN,山
 18_gold,gold,1369,GOLD,金(子)
@@ -219,10 +219,10 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 218_thread,thread,1161,THREAD,线(缝衣用的)
 219_rope,rope,1218,ROPE,绳子
 220_winnowingfan,winnowing fan,2051,DUSTPAN,簸箕(簸米用)
-221_mortar,mortar,224,MORTAR CRUSHER,臼(盐臼)
+221_mortar,mortar,224,MORTAR,臼(盐臼)
 222_medicine,medicine,1372,MEDICINE,药
 223_broom,broom,245,BROOM,扫帚(扫把)
-224_pan,pan,31,PAN,锅(炒菜的)
+224_pan,pan,2056,WOK,锅(炒菜的)
 225_bowl,bowl,1530,BOWL,小碗
 226_chopsticks,chopsticks,1987,CHOPSTICKS,筷子
 227_stairs,stairs,1464,LADDER,梯子(木梯)
@@ -281,7 +281,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 280_togrowcultivate,"to grow, cultivate",3461,GROW PLANTS,种(种菜)
 281_tochopslice,"to chop, slice",2149,CHOP (INTO PIECES),切(切菜)
 282_tochopdown,to chop down,355,CUT DOWN,砍(砍树)
-283_tosplit,to split,1437,SPLIT,劈(劈木柴)
+283_tosplit,to split,3151,CUT (WITH AXE),劈(劈木柴)
 284_tobuy,to buy,1869,BUY,买
 285_tosell,to sell,1571,SELL,卖
 286_tocount,to count,1420,COUNT,数(数东西)
@@ -311,7 +311,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 310_tohang,to hang,2884,HANG,挂(挂在墙上)
 311_tountie,to untie,352,UNTIE,解(解绳结)
 312_torelease,to release,1095,LET GO OR SET FREE,放(把鸟放走)
-313_topack,to pack,,,装(装进袋里)
+313_topack,to pack,3656,PACK,装(装进袋里)
 314_totakeout,to take out,,,拿出
 315_tostuff,to stuff,,,塞(塞在洞口)
 316_tohidething,to hide (thing),602,HIDE (CONCEAL),藏(东西)
