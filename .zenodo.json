@@ -1,0 +1,37 @@
+{
+    "title": "CLDF dataset derived from Castro et al.'s \"Yi Varieties in Heqing\" from 2010",
+    "access_right": "open",
+    "keywords": [
+        "cldf:Wordlist",
+        "linguistics"
+    ],
+    "creators": [
+        {
+            "name": "Johann-Mattis List"
+        }
+    ],
+    "contributors": [
+        {
+            "name": "Andy Castro",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Brian Crook",
+            "type": "DataCollector"
+        },
+        {
+            "name": "Royce Flaming",
+            "type": "DataCollector"
+        }
+    ],
+    "communities": [
+        {
+            "identifier": "lexibank"
+        }
+    ],
+    "upload_type": "dataset",
+    "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Castro, Andy; Crook, Brian; Flaming, Royce (2010): A sociolinguistic survey of Kua-nsi and related Yi varieties in Heqing county, Yunnan province, China. SIL Electronic Survey Reports 2010-001. Dallas: SIL International.</p>\n</blockquote>",
+    "license": {
+        "id": "CC-BY-NC-4.0"
+    }
+}
