@@ -508,7 +508,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 507_hundred,hundred,1634,HUNDRED,百
 508_thousand,thousand,1843,THOUSAND,千
 509_armspanmeasure,arm span (measure),,,庹(两臂伸直)
-510_handspanmeasure,hand span (measure,,,柞(拇指-中指)
+510_handspanmeasure,hand span (measure,3838,HANDSPAN,柞(拇指-中指)
 511_i,I*,1209,I,我
 512_weincl,we incl.*,1131,WE (INCLUSIVE),我们
 513_yousg,you sg.*,1215,THOU,你

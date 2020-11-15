@@ -1,7 +1,7 @@
 ID,Name,Glottocode,Glottolog_Name,ISO639P3code,Macroarea,Latitude,Longitude,Family,SubGroup
-HedongKuaNsi,Kua-nsi (Hedong),sich1238,,,,25.2871677,99.2546745,Sino-Tibetan,Nesu
-ShangepingKuaNsi,Kua-nsi,sich1238,,,,26.4362805,100.4142768,Sino-Tibetan,Nesu
-Kuamasi,Kuamasi,sich1238,,,,26.3386795,100.3652368,Sino-Tibetan,Nesu
-DaqingZibusi,Zibusi (Daqing),sich1238,,,,29.0539,97.9368,Sino-Tibetan,Nesu
-MoguangLaizisi,Laizisi (Moguang),sich1238,,,,26.4908975,100.2810418,Sino-Tibetan,Nesu
-XinfengSonaga,Sonaga (Xinfeng),sich1238,,,,24.4957899,101.3020228,Sino-Tibetan,Nesu
+HedongKuaNsi,Kua-nsi (Hedong),sich1238,Sichuan Yi,iii,Eurasia,25.2871677,99.2546745,Sino-Tibetan,Loloish
+ShangepingKuaNsi,Kua-nsi,sich1238,Sichuan Yi,iii,Eurasia,26.4362805,100.4142768,Sino-Tibetan,Loloish
+Kuamasi,Kuamasi,sich1238,Sichuan Yi,iii,Eurasia,26.3386795,100.3652368,Sino-Tibetan,Loloish
+DaqingZibusi,Zibusi (Daqing),sich1238,Sichuan Yi,iii,Eurasia,29.0539,97.9368,Sino-Tibetan,Loloish
+MoguangLaizisi,Laizisi (Moguang),sich1238,Sichuan Yi,iii,Eurasia,26.4908975,100.2810418,Sino-Tibetan,Loloish
+XinfengSonaga,Sonaga (Xinfeng),sich1238,Sichuan Yi,iii,Eurasia,24.4957899,101.3020228,Sino-Tibetan,Loloish

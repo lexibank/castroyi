@@ -1,7 +1,7 @@
-ID,Name,Glottocode,Latitude,Longitude
-HedongKuaNsi,Kua-nsi (Hedong),sich1238,25.2871677,99.2546745
-ShangepingKuaNsi,Kua-nsi,sich1238,26.4362805,100.4142768
-Kuamasi,Kuamasi,sich1238,26.3386795,100.3652368
-DaqingZibusi,Zibusi (Daqing),sich1238,29.0539,97.9368
-MoguangLaizisi,Laizisi (Moguang),sich1238,26.4908975,100.2810418
-XinfengSonaga,Sonaga (Xinfeng),sich1238,24.4957899,101.3020228
+ID,Name,Glottocode,Latitude,Longitude,Family,Macroarea,SubGroup
+HedongKuaNsi,Kua-nsi (Hedong),sich1238,25.2871677,99.2546745,Sino-Tibetan,Eurasia,Loloish
+ShangepingKuaNsi,Kua-nsi,sich1238,26.4362805,100.4142768,Sino-Tibetan,Eurasia,Loloish
+Kuamasi,Kuamasi,sich1238,26.3386795,100.3652368,Sino-Tibetan,Eurasia,Loloish
+DaqingZibusi,Zibusi (Daqing),sich1238,29.0539,97.9368,Sino-Tibetan,Eurasia,Loloish
+MoguangLaizisi,Laizisi (Moguang),sich1238,26.4908975,100.2810418,Sino-Tibetan,Eurasia,Loloish
+XinfengSonaga,Sonaga (Xinfeng),sich1238,24.4957899,101.3020228,Sino-Tibetan,Eurasia,Loloish
