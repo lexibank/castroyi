@@ -7,21 +7,19 @@
     ],
     "creators": [
         {
-            "name": "Johann-Mattis List"
+            "name": "Andy Castro"
+        },
+        {
+            "name": "Brian Crook"
+        },
+        {
+            "name": "Royce Flaming"
         }
     ],
     "contributors": [
         {
-            "name": "Andy Castro",
-            "type": "DataCollector"
-        },
-        {
-            "name": "Brian Crook",
-            "type": "DataCollector"
-        },
-        {
-            "name": "Royce Flaming",
-            "type": "DataCollector"
+            "name": "Johann-Mattis List",
+            "type": "Other"
         }
     ],
     "communities": [
@@ -32,6 +30,6 @@
     "upload_type": "dataset",
     "description": "<p>Cite the source of the dataset as:</p>\n\n<blockquote>\n<p>Castro, Andy; Crook, Brian; Flaming, Royce (2010): A sociolinguistic survey of Kua-nsi and related Yi varieties in Heqing county, Yunnan province, China. SIL Electronic Survey Reports 2010-001. Dallas: SIL International.</p>\n</blockquote>",
     "license": {
-        "id": "CC-BY-NC-4.0"
+        "id": "CC-BY-4.0"
     }
 }

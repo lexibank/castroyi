@@ -2,7 +2,7 @@
 
 Name               | GitHub user | Description |Role
 ---                | ---         | --- | ---
-Johann-Mattis List | @LinguList  | maintainer | Author
-Andy Castro | | data collection | DataCollector
-Brian Crook | | data collection | DataCollector
-Royce Flaming | | data collection | DataCollector
+Johann-Mattis List | @LinguList  | maintainer | Other
+Andy Castro | | data collection | Author
+Brian Crook | | data collection | Author
+Royce Flaming | | data collection | Author

@@ -4,7 +4,7 @@ Cite the source dataset as
 
 > Castro, Andy; Crook, Brian; Flaming, Royce (2010): A sociolinguistic survey of Kua-nsi and related Yi varieties in Heqing county, Yunnan province, China. SIL Electronic Survey Reports 2010-001. Dallas: SIL International.
 
-This dataset is licensed under a https://creativecommons.org/licenses/by-nc/4.0/ license
+This dataset is licensed under a CC-BY-4.0 license
 
 Available online at http://www.sil.org/silesr/2010/silesr2010-001_English.pdf
 
@@ -34,9 +34,9 @@ Conceptlists in Concepticon:
 
 Name               | GitHub user | Description |Role
 ---                | ---         | --- | ---
-Johann-Mattis List | @LinguList  | maintainer | Author
-Andy Castro | | data collection | DataCollector
-Brian Crook | | data collection | DataCollector
-Royce Flaming | | data collection | DataCollector
+Johann-Mattis List | @LinguList  | maintainer | Other
+Andy Castro | | data collection | Author
+Brian Crook | | data collection | Author
+Royce Flaming | | data collection | Author
 
 
