@@ -84,7 +84,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 83_rice,rice,926,RICE,大米
 84_dishvegetables,dish (vegetables),3542,PREPARED FOOD,菜(饭菜)
 85_soup,soup,1547,SOUP,汤(菜汤)
-86_peanut,peanut,2364,PEANUT,花生
+86_peanut,peanut,595,GROUNDNUT (PEANUT),花生
 87_walnut,walnut,2042,WALNUT,核桃
 88_bean,bean,832,BEAN,豆子
 89_gourd,gourd,411,GOURD,葫芦
@@ -461,7 +461,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 460_ashamed,ashamed,1894,ASHAMED,惭愧
 461_glad,glad,1495,HAPPY,高兴
 462_angry,angry,1826,ANGRY,生气
-463_itchy,itchy,149,ITCHY,痒
+463_itchy,itchy,3856,ITCH OR ITCHY OR ITCHING,痒
 464_hurting,hurting,1129,PAINFUL,痛
 465_sick,sick,1847,SICK,病(生病)
 466_clever,clever,1310,CLEVER,聪明
