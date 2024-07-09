@@ -29,21 +29,21 @@ Conceptlists in Concepticon:
 ![BIPA: 100%](https://img.shields.io/badge/BIPA-100%25-brightgreen.svg "BIPA: 100%")
 ![CLTS SoundClass: 100%](https://img.shields.io/badge/CLTS%20SoundClass-100%25-brightgreen.svg "CLTS SoundClass: 100%")
 
-- **Varieties:** 6
-- **Concepts:** 540
+- **Varieties:** 6 (linked to 1 different Glottocodes)
+- **Concepts:** 540 (linked to 532 different Concepticon concept sets)
 - **Lexemes:** 2,891
 - **Sources:** 1
 - **Synonymy:** 1.03
 - **Invalid lexemes:** 0
 - **Tokens:** 15,729
-- **Segments:** 110 (0 BIPA errors, 0 CTLS sound class errors, 111 CLTS modified)
+- **Segments:** 110 (0 BIPA errors, 0 CLTS sound class errors, 111 CLTS modified)
 - **Inventory size (avg):** 73.17
 
 # Contributors
 
 Name               | GitHub user | Description |Role
 ---                | ---         | --- | ---
-Johann-Mattis List | @LinguList  | maintainer | Other
+Johann-Mattis List | @LinguList  | maintainer | Editor
 Andy Castro | | data collection | Author
 Brian Crook | | data collection | Author
 Royce Flaming | | data collection | Author

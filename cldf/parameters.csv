@@ -312,7 +312,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 311_tountie,to untie,352,UNTIE,解(解绳结)
 312_torelease,to release,1095,LET GO OR SET FREE,放(把鸟放走)
 313_topack,to pack,3656,PACK,装(装进袋里)
-314_totakeout,to take out,,,拿出
+314_totakeout,to take out,3654,TAKE OUT,拿出
 315_tostuff,to stuff,,,塞(塞在洞口)
 316_tohidething,to hide (thing),602,HIDE (CONCEAL),藏(东西)
 317_tohideself,to hide (self),2485,HIDE (ONESELF),藏/躲(自己)
@@ -410,7 +410,7 @@ ID,Name,Concepticon_ID,Concepticon_Gloss,Chinese_Gloss
 409_toowe,to owe,369,OWE,欠
 410_toexchange,to exchange,2509,EXCHANGE,(交)换
 411_tosuck,to suck,1421,SUCK,吸
-412_toliftoverhead,to lift (over head),501,LIFT,举起
+412_toliftoverhead,to lift (over head),1317,RAISE,举起
 413_tosqueeze,to squeeze,1414,SQUEEZE,挤压
 414_topinch,to pinch,378,PINCH,捏
 415_white,white*,1335,WHITE,白
